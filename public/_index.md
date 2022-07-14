@@ -27,7 +27,7 @@ An absolutely wonderful summary of the economics of Henry George and land value 
 
 <blockquote class="quoteleft">
 Why land matters more today than ever… and why economists, urbanists & everyone else need to take Henry George Seriously.
-<footer>—Richard Florida, co-founder of Bloomberg CityLab</footer>
+<footer>—<a href="https://twitter.com/Richard_Florida/status/1469054290341896194">Richard Florida</a>, co-founder <a href="https://www.bloomberg.com/citylab">Bloomberg CityLab</a></footer>
 </blockquote>
 
 <blockquote class="quoteright">
