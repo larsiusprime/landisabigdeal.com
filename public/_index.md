@@ -2,7 +2,7 @@
 <br>
 <hr>
 <br>
-# Praise for "Land is a Big Deal"
+#Pre-Publication praise for "Land is a Big Deal"
 
 > The Georgists talk about their own movement in terms of "seeing the cat" - realizing the degree to which land affects the economy is a sudden perspective shift, surprising and irreversible. Lars' entry in my book review contest caused thousands of people to see the cat at once. It ended up getting 114,000 views, being shared hundreds times on Twitter (an archaic social media site sort of like voluntarily subjecting yourself to painful electric shocks, but more addictive), and inspiring a renewal of interest in Georgist ideas whose full ramifications are yet to be determined. One of those ramifications is this book.
 - Scott Alexander
