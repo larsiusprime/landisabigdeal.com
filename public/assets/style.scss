@@ -19,9 +19,11 @@ h1 {
 header, main {
   margin: 10px auto;
   padding: $panePadding;
+  /*
   border: 1px gray solid;
   border-radius: 10px;
   box-shadow: 5px 5px $shadowColor;
+  */
   position: relative;
   width: 800px;
   max-width: calc(100vw - 10px);
