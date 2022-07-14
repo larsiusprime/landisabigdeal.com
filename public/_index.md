@@ -2,6 +2,7 @@
 <br>
 <hr>
 <br>
+
 #Pre-Publication praise for "Land is a Big Deal"
 
 <blockquote>
