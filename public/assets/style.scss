@@ -134,7 +134,7 @@ ol {
 
 
 blockquote {
-	font-style:italic;
+  font-style:italic;
   background-color: #f5f5fa;
   padding: 1px 15px;
   border-radius: 5px;
@@ -153,6 +153,4 @@ blockquote::before {
 	content: "\201C";
 	font-size: 80px;
 	position: absolute;
-	left: -10px;
-	top: -10px;
 }
