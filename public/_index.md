@@ -2,8 +2,7 @@
 <br>
 <hr>
 <br>
-
-
+<h1>Get notified as soon as pre-orders go live:</h1>
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -29,7 +28,9 @@
 </div>
 
 <!--End mc_embed_signup-->
-
+<br>
+<hr>
+<br>
 
 <h1>Praise for "Land is a Big Deal":</h1>
 
