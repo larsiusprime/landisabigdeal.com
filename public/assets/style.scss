@@ -146,5 +146,11 @@ p img {
 }
 
 blockquote::before {
-    content: '“';
+    display: block;
+	font-weight: normal;
+	content: "\201C";
+	font-size: 80px;
+	position: absolute;
+	left: -10px;
+	top: -10px;
 }
