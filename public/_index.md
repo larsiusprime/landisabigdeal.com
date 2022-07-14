@@ -3,7 +3,7 @@
 <hr>
 <br>
 
-<h1>Pre-Publication praise for "Land is a Big Deal":</h1>
+<h1>Praise for "Land is a Big Deal":</h1>
 
 <blockquote>
 Inspiring a renewal of interest in Georgist ideas whose full ramifications are yet to be determined.
