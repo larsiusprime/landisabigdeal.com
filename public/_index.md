@@ -1,1 +1,1 @@
-![](content/images/softbook.png)
+<img src="content/images/softbook.png" style="max-width:67%;">
