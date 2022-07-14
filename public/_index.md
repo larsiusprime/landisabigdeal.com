@@ -1,1 +1,1 @@
-![](content/images/book.png)
+![](content/images/hardbook.png)
