@@ -32,12 +32,12 @@ Why land matters more today than ever… and why economists, urbanists & everyon
 
 <blockquote class="quoteright">
 Take the Georgist pill and read this.
-<footer>—Arpit Gupta, author of Arpitrage newsletter</footer>
+<footer>—Arpit Gupta, author <a href="https://arpitrage.substack.com/">Arpitrage substack</a></footer>
 </blockquote>
 
 <blockquote class="quoteleft">
 Have you seen the cat? Whether or not Doucet converts you to Georgism, you’ll come away with a new appreciation for how every economic system is built on the same resource: land.
-<footer>—SlimeMoldTimeMold.com</footer>
+<footer>—<a href="https://www.slimemoldtimemold.com">SlimeMoldTimeMold.com</a></footer>
 </blockquote>
 
 <blockquote class="quoteright">
