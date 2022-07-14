@@ -41,6 +41,6 @@ Have you seen the cat? Whether or not Doucet converts you to Georgism, you’ll 
 </blockquote>
 
 <blockquote class="quoteright">
-If you've read about Henry George and his book Progress and Poverty, but never actually read them, here is your big chance to learn a lot without reading so many hundreds of pages
+If you've read about Henry George and his book Progress and Poverty, but never actually read them, here is your big chance to learn a lot without reading so many hundreds of pages.
 <footer>—<a href="https://twitter.com/dolanecon/status/1469296694961573893">Ed Dolan</a>, Senior Fellow, <a href="https://www.niskanencenter.org/">Niskanen Center</a></footer>
 </blockquote>
