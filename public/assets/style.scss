@@ -2,6 +2,13 @@ $shadowColor: #3333;
 $textColor: black;
 $panePadding: 15px;
 
+@font-face {
+	font-family: 'Segoe WP';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Segoe WP'), url('SegoeWP.woff') format('woff');
+}
+
 * {
   box-sizing: border-box;
 }
