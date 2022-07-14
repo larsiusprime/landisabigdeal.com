@@ -1,1 +1,1 @@
-![](content/images/hardbook.png)
+![](content/images/softbook.png)
