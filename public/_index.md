@@ -11,12 +11,12 @@ Inspiring a renewal of interest in Georgist ideas whose full ramifications are y
 </blockquote>
 
 <blockquote class="right">
-Lars's work is intellectually fascinating and among the clearest and most compelling writing in support of land value taxes that I've seen
+Lars's work is intellectually fascinating and among the clearest and most compelling writing in support of land value taxes that I've seen.
 <footer>—Vitalik Buterin</footer>
 </blockquote>
 
 <blockquote class="left">
-A really excellent overview of land wealth in America
+A really excellent overview of land wealth in America.
 <footer>—Noah Smith</footer>
 </blockquote>
 
@@ -26,16 +26,16 @@ An absolutely wonderful summary of the economics of Henry George and land value 
 </blockquote>
 
 <blockquote class="left">
-Why land matters more today than ever… and why economists, urbanists & everyone else need to take Henry George Seriously
+Why land matters more today than ever… and why economists, urbanists & everyone else need to take Henry George Seriously.
 <footer>—Richard Florida, co-founder of Bloomberg CityLab</footer>
 </blockquote>
 
 <blockquote class="right">
-Take the Georgist pill and read this 
+Take the Georgist pill and read this.
 <footer>—Arpit Gupta, author of Arpitrage newsletter</footer>
 </blockquote>
 
 <blockquote class="left">
-Have you seen the cat? Whether or not Doucet converts you to Georgism, you’ll come away with a new appreciation for how every economic system is built on the same resource: land."
+Have you seen the cat? Whether or not Doucet converts you to Georgism, you’ll come away with a new appreciation for how every economic system is built on the same resource: land.
 <footer>—SlimeMoldTimeMold.com</footer>
 </blockquote>
