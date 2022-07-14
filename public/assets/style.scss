@@ -136,9 +136,18 @@ ol {
 blockquote {
   font-style:italic;
   background-color: #f5f5fa;
-  padding: 1px 15px;
+  padding: 1px 10px;
   border-radius: 5px;
   line-height: 25px;
+}
+
+blockquote .left {
+  width: 50%;
+}
+
+blockquote .right {
+  left: 40%;
+  width: 50%;
 }
 
 p img {
