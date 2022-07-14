@@ -62,7 +62,7 @@ a {
 }
 
 header {
-  font-size: 21.8px;
+  font-size: 23px;
 
   a:link, a:visited {
     color: #13335d;
@@ -92,6 +92,8 @@ a.nava {
 }
 
 span.titletext {
+  color:black;
+  font-weight:bold;
   font-size:65px;
   position:relative;
   display:block;
