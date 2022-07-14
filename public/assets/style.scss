@@ -94,10 +94,6 @@ nav {
   justify-content: space-evenly;
 }
 
-a.nava {
-	text-decoration: underline;
-}
-
 a.nava:hover, a.nava:active {
 	text-decoration: underline;
 }
@@ -118,6 +114,7 @@ span.subtitletext {
   display:block;
   position:relative;
   font-family:"Segoe WP";
+  font-size:20.5px;
 }
 
 p {
