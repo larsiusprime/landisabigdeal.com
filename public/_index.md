@@ -45,7 +45,7 @@ Lars's work is intellectually fascinating and among the clearest and most compel
 </blockquote>
 
 <blockquote class="quoteleft">
-A really excellent overview of land wealth in America.
+Lars Doucet has thought more deeply about land taxes than anyone I've ever met...and I've met just about everyone.
 <footer>—<a href="https://noahpinion.substack.com/">Noah Smith</a></footer>
 </blockquote>
 
