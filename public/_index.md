@@ -79,11 +79,13 @@ If you've read about Henry George and his book Progress and Poverty, but never a
 
 <h1>What's the big deal?</h1>
 <p>
-This book began its life as a series of articles that struck a nerve online and became more popular than I could ever imagine. To explain how we got from there to here, I asked two friends to lend some words of introduction for how this all came about, as well as the broader economic context in which this book sits.
+This book began its life as a <a href="https://www.gameofrent.com">series of articles</a> that struck a nerve online and became more popular than I could ever imagine. To explain how we got from there to here, I asked two friends to lend some words of introduction for how this all came about, as well as the broader economic context in which this book sits.
 <br><br>-Lars A. Doucet
+<br><br>
 </p>
 <p>
 <b>Scott Alexander, author of Astral Codex Ten:</b><br>
+<i>
 <p>
 Who even writes forewords for books anymore? The only place I ever see forewords is in old texts, by some historian trying to explain the context in which the book was written. So in case anyone is reading this book a hundred or a thousand years in the future, here's the context.</p>
 <p>In the 2020s, when this book was written, median US rent had gone up 20% (in real terms) over twenty years. Houses were skyrocketing in price so consistently that large investment groups were snapping up much of the available stock. Leading newspapers (an archaic form of media sort of like a blog, but more pretentious) declared "the end of the American Dream of homeownership". An elderly man with period-atypical facial hair achieved national acclaim for founding a political party called "The Rent Is Too Damn High". Urban dwellers organized into factions with names like "NIMBYs" and "YIMBYs" to fight over whether the government should allow new houses to be built.</p>
@@ -91,9 +93,11 @@ Who even writes forewords for books anymore? The only place I ever see forewords
 <p>I was wrong. There's an old optical illusion where, if you stare at it long enough, the image of a cat suddenly jumps out, so obvious that you can't understand how you missed it before. The Georgists talk about their own movement in terms of "seeing the cat" - realizing the degree to which land affects the economy is a sudden perspective shift, surprising and irreversible. Lars' entry in my book review contest caused thousands of people to see the cat at once. It ended up getting 114,000 views, being shared hundreds times on Twitter (an archaic social media site sort of like voluntarily subjecting yourself to painful electric shocks, but more addictive), and inspiring a renewal of interest in Georgist ideas whose full ramifications are yet to be determined. One of those ramifications is this book.</p>
 <p>The really frustrating thing about Georgism is the typical response from economists (an archaic profession kind of like an oracle, but less accurate). They say sure, it is a brilliant idea, it would solve a lot of problems - but it is a nonstarter for lack of political will to carry it out, so it is doomed. They make a good point. But you can solve lack of political will by building political will - the job Lars has set for himself here.</p>
 <p>If you're reading this book in the distant future, I hope your society has found that this movement is not so hopeless after all. And if you're reading it in the present, I hope it inspires you to become a part of that change.</p>
-<br>
 <p>
+<br><br>
+</i>
 <b>Noah Smith, Economist:</b><br>
+<i>
 <p>It would only be a slight exaggeration to say that humanity’s history is defined by a struggle over land. We find ourselves populating a 2-dimensional spherical surface with a fixed amount of territory. We did not create this territory (or at least, not most of it); thus, it represents the ultimate zero-sum game.</p>
 <p>Land has value for many reasons. Some of it can be farmed. Some of it has useful minerals underneath it. Some pieces are close to valuable natural features like harbors. We’ve been fighting over these resources since the beginning of time. Individuals, tribes, nation-states and armies would try to kick each other off bits of land and claim ownership for themselves. Some of this is still going on.</p>
 <p>Property rights help formalize and legitimize this forceful conquest. When you sell a piece of land to someone, you’re participating in a chain of peaceful land sales that began at some point in the past with a violent seizure. Unlike property rights over a house or a corporation–things made via human effort and ingenuity–property over land has always carried a slight taint of violence. This is one reason why cries for economic justice often come in the form of calls to redistribute farmland from large landlords to small farmers, or to return land to its previous owners.</p>
@@ -106,3 +110,4 @@ Who even writes forewords for books anymore? The only place I ever see forewords
 <p>And it is important to remember that the quest to remedy the inherent injustice of landownership is not limited to debates over land value taxes.There are many other ideas to redistribute the benefits of land–agricultural land reform, government housing construction as in Singapore, and others. </p>
 <p>Georgism, therefore, should be thought of as a broad movement–and one that didn’t begin in the 19th century, but has been going on for as long as humans have been fighting over scraps of the map. Turning the inherently zero-sum-game of landownership into something that supports human equality and productivity is among our greatest challenges, and a dream that must never die.</p>
 </p>
+</i>
