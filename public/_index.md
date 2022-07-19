@@ -82,7 +82,7 @@ Proponents of Capital focus on topline GDP and the stock market and support inve
 But what if we've been missing out on a crucial piece of the puzzle, something that flips the entire script?</p>
 Take a look at this picture:</p>
 <img src="content/images/seethecat.png" style="max-width:67%; display:block; margin:auto;">
-<p>Do you see the cat?</p>
+<p style="text-align:center;">Do you see the cat?</p><br>
 <p>Nestled in the negative space between the tree’s branches, the cat represents the hidden role of land that shapes the entire economy: once you've seen it, you can't un-see it. Land, and the policies that govern it, hold an incredible and largely forgotten power over our lives. When land is wasted and squandered, we get sky-high rents, oppressed workers, ruined businesses, depleted natural resources, a polluted earth, and an impoverished society.</p> 
 <p>Land is a big deal, and this book will explain the problem and what we can do to solve it.</p>
 <p>PART I is a review and summary of Progress and Poverty, the seminal text concerning the land problem. That book was the magnum opus of 19th century American political economist and populist firebrand Henry George and was so popular in its time that many have claimed it outsold all other books except the Bible . I explain and contextualize Henry George’s philosophy for modern readers, known today as Georgism or Geoism. Then, I lay out his proposed solution to the land problem, the “Land Value Tax,” a tax on the annual rental value of land, but which excludes the value of all improvements, such as buildings.</p>
