@@ -77,14 +77,32 @@ If you've read about Henry George and his book Progress and Poverty, but never a
 <hr>
 <br>
 
+Popular economic debate is obsessed with just two things: Labor and Capital. Labor is the exertion of human beings, and Capital is the stored-up product of labor, transformed into tools, machines, and other useful things used to help produce more wealth. Labor and Capital each have their own dominant school of thought—Socialism and Capitalism, respectively—that have spent the last century sucking up all the oxygen and leaving little room for alternatives.</p>
+Proponents of Capital focus on topline GDP and the stock market and support investment, capital formation, and business owners. Proponents of Labor focus on working conditions and compensation and support the health, education, welfare, and bargaining power of the people who do all the work. Crucially, we've been trained to see these two camps as fundamentally opposed–if we want to stimulate growth and economic progress, it means squeezing workers, and if we want to take care of workers it means accepting higher taxes, more barriers to starting and running a business, and a hit to overall economic growth.</p>
+But what if we've been missing out on a crucial piece of the puzzle, something that flips the entire script?</p>
+Take a look at this picture:</p>
+<img src="content/images/seethecat.png" style="max-width:67%; display:block; margin:auto;">
+<p>Do you see the cat?</p>
+<p>Nestled in the negative space between the tree’s branches, the cat represents the hidden role of land that shapes the entire economy: once you've seen it, you can't un-see it. Land, and the policies that govern it, hold an incredible and largely forgotten power over our lives. When land is wasted and squandered, we get sky-high rents, oppressed workers, ruined businesses, depleted natural resources, a polluted earth, and an impoverished society.</p> 
+<p>Land is a big deal, and this book will explain the problem and what we can do to solve it.</p>
+<p>PART I is a review and summary of Progress and Poverty, the seminal text concerning the land problem. That book was the magnum opus of 19th century American political economist and populist firebrand Henry George and was so popular in its time that many have claimed it outsold all other books except the Bible . I explain and contextualize Henry George’s philosophy for modern readers, known today as Georgism or Geoism. Then, I lay out his proposed solution to the land problem, the “Land Value Tax,” a tax on the annual rental value of land, but which excludes the value of all improvements, such as buildings.</p>
+<p>
+Having established the problem and its solution, I then move on to addressing critics. There are three common practical objections that newcomers to George’s philosophy tend to raise: 1) that land just isn’t an important part of the economy anymore, 2) that Land Value Tax will just be passed on to tenants and make everything more expensive, and 3) that even if all the theory is correct, unimproved land can’t be accurately assessed in practice, so the whole project is doomed.</p>
+The next three parts address each of these objections in turn. 
+<p>PART II empirically establishes that land is a big deal, not just in the 19th century, but even and especially today. First, I demonstrate that the chief component of sky-high urban real estate prices is due to land values, not buildings. Second, I collect and synthesize all the best estimates of America's total land values and demonstrate how a tax on the annual rental value of land could raise enormous sums of revenue sufficient to significantly offset or even replace existing sales, income, and capital taxes. Finally, I show the degree to which real estate has come to dominate bank lending, how housing has become the largest asset class in the world, and the degree to which landownership is concentrated among the wealthy.</p>
+<p>PART III lays out the empirical case for Land Value Tax not being passed on to tenants. I explain the theoretical basis for this and then provide empirical evidence showing the effects of Land Value Tax policies in the real world. Counter to what is often claimed, I demonstrate that landlords not only can't, but empirically don't, simply pass on the tax to their tenants by raising rents.</p>
+<p>PART IV evaluates the available methodology and current state of practice for assessing unimproved land values separately from buildings. I give an overview of established best practices, critique the status quo where it falls short, and present a sampling of the latest methods from the research literature that can improve upon the state of the art.</p>
+<p>PART V concludes by reviewing all the evidence and practical case studies we've seen so far and charts a path forward for the work that lies ahead.</p>
+
+<!--
 <h1>What's the big deal?</h1>
 <p>
-This book began its life as a <a href="https://www.gameofrent.com">series of articles</a> that struck a nerve online and became more popular than I could ever imagine. To explain how we got from there to here, I asked two friends to lend some words of introduction for how this all came about, as well as the broader economic context in which this book sits.
-<br><br>-Lars A. Doucet
+This book began its life as a <a href="https://astralcodexten.substack.com/p/does-georgism-work-is-land-really">series of guest articles</a> on the blog Astral Codex Ten that struck a nerve online and became more popular than I could ever imagine. To explain how we got from there to here, I asked two friends to lend some words of introduction for how this all came about, as well as the broader economic context in which this book sits.
+<br>-Lars A. Doucet
 <br><br>
 </p>
 <p>
-<b>Scott Alexander, author of Astral Codex Ten:</b><br>
+<b>Scott Alexander, author of <a href="https://astralcodexten.substack.com">Astral Codex Ten</a> and <a href="https://slatestarcodex.com">Slate Star Codex</a>:</b><br>
 <i>
 <p>
 Who even writes forewords for books anymore? The only place I ever see forewords is in old texts, by some historian trying to explain the context in which the book was written. So in case anyone is reading this book a hundred or a thousand years in the future, here's the context.</p>
@@ -111,3 +129,4 @@ Who even writes forewords for books anymore? The only place I ever see forewords
 <p>Georgism, therefore, should be thought of as a broad movement–and one that didn’t begin in the 19th century, but has been going on for as long as humans have been fighting over scraps of the map. Turning the inherently zero-sum-game of landownership into something that supports human equality and productivity is among our greatest challenges, and a dream that must never die.</p>
 </p>
 </i>
+-->
