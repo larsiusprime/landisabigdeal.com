@@ -81,8 +81,8 @@ Popular economic debate is obsessed with just two things: Labor and Capital. Lab
 Proponents of Capital focus on topline GDP and the stock market and support investment, capital formation, and business owners. Proponents of Labor focus on working conditions and compensation and support the health, education, welfare, and bargaining power of the people who do all the work. Crucially, we've been trained to see these two camps as fundamentally opposed–if we want to stimulate growth and economic progress, it means squeezing workers, and if we want to take care of workers it means accepting higher taxes, more barriers to starting and running a business, and a hit to overall economic growth.</p>
 But what if we've been missing out on a crucial piece of the puzzle, something that flips the entire script?</p>
 Take a look at this picture:</p>
+<p style="text-align:center;"><small>(Source: Nick Hayes, used with permission)</small></p>
 <img src="content/images/seethecat.png" style="max-width:67%; display:block; margin:auto;">
-<p style="text-align:center;"><small>Source: Nick Hayes, used with permission</small></p>
 <p style="text-align:center;">Do you see the cat?</p><br>
 <p>Nestled in the negative space between the tree’s branches, the cat represents the hidden role of land that shapes the entire economy: once you've seen it, you can't un-see it. Land, and the policies that govern it, hold an incredible and largely forgotten power over our lives. When land is wasted and squandered, we get sky-high rents, oppressed workers, ruined businesses, depleted natural resources, a polluted earth, and an impoverished society.</p> 
 <p>Land is a big deal, and this book will explain the problem and what we can do to solve it.</p>
