@@ -142,7 +142,7 @@ Real estate comprises an ever-increasing majority share of bank loans:<br>
 And of course, the vast majority of that real estate's value is due to land:<br>
 <img src="content/images/aei_land_share.png" style="max-width:67%; display:block; margin:auto;">
 
-The power that medieval lords once weilded from controlling agricultural land has shifted to those who own residential land:<br>
+The power that aristocrats once weilded from controlling agricultural land has shifted to those who own residential land:<br>
 <img src="content/images/uk_national_capital.png" style="max-width:67%; display:block; margin:auto;"><br>
 <img src="content/images/france_national_capital.png" style="max-width:67%; display:block; margin:auto;"><br>
 <img src="content/images/spain_assets.png" style="max-width:67%; display:block; margin:auto;">
