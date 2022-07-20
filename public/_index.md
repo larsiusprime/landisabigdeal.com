@@ -121,7 +121,7 @@ Conservative estimates indicate a Land Value Tax could raise an amount equal to 
 <img src="content/images/land_rent_vs_federal_receipts.png" style="max-width:67%; display:block; margin:auto;">
 <p style="text-align:center;"><small>Source: <i>Land is a Big Deal</i></small></p>
 
-Put another way, on the low end that's enough to fully fund any ONE of our three major non-discretionary spending obligations: social security, healthcare, or the defense budget. On the higher end (which uses the most credible estimation method), a Land Value Tax could fully fund all three, with money left over to spare:<br><br>
+Put another way, on the low end that's enough to fully fund any ONE of our three major non-discretionary spending obligations: social security, healthcare, or the defense budget. On the higher end, a Land Value Tax could fully fund all three, with money left over to spare:<br><br>
 <img src="content/images/2019_federal_vs_2019_land_rent.png" style="max-width:67%; display:block; margin:auto;">
 <p style="text-align:center;"><small>Source: <i>Land is a Big Deal</i></small></p>
 
