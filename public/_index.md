@@ -81,7 +81,7 @@ If you've read about Henry George and his book Progress and Poverty, but never a
 <br>
 <a id="synopsis"></a>
 <h1>Synopsis</h1>
-<p>The conflicts of the last century have trained us to see capital and labor as two fundamentally opposed camps–if we want to stimulate growth and economic progress, it means squeezing workers, and if we want to take care of workers it means accepting higher taxes, more barriers to starting and running a business, and a hit to overall economic growth.</p>
+<p>The conflicts of the last century have trained us to see capital and labor as two fundamentally opposed camps–if we want to stimulate growth and economic progress, it means squeezing workers, and if we want to take care of workers it means accepting higher taxes, more barriers to starting and running a business, and a hit to overall economic growth (or so the conventional wisdom goes).</p>
 <p>But what if we've been missing out on a crucial piece of the puzzle, something that flips the entire script?</p>
 <p>Take a look at this picture:</p>
 <p style="text-align:center;"><small>(Source: Nick Hayes, used with permission)</small></p>
