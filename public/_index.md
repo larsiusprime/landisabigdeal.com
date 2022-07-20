@@ -109,6 +109,12 @@ If you've read about Henry George and his book Progress and Poverty, but never a
 Here are a few key findings.
 </p>
 <p>
+Economists across the political spectrum are in near-universal agreement about one thing: Land Value Tax is the best tax there is. Nobody creates land, but everybody needs it, and there is fierce competition for good locations in populous city centers. This is a perfect recipe for speculation and ever-inflating housing prices, which infect the rest of the economy and contribute to higher costs of living and general stagnation. Land is the one thing you can tax without getting any less of it. Land Value Tax discourages people from buying land and holding it out of use, which encourages denser building, which has been repeatedly shown to be better for both quality of life and for the environment. Land Value Tax is a rare tax that instead of being a "necessary evil" that puts a drag on the economy, actually <i>boosts</i> it. Even better, every dollar raised by Land Value Tax is a dollar we can reduce other less efficient taxes (such as those on personal incomes) by.
+</p>
+<p>
+So how much can Land Value Tax raise?
+</p>
+<p>
 Conservative estimates indicate a Land Value Tax could raise an amount equal to 30-100% of all federal tax receipts:<br><br>
 <img src="content/images/land_rent_vs_federal_receipts.png" style="max-width:67%; display:block; margin:auto;">
 
