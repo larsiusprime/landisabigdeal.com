@@ -190,4 +190,4 @@ She has said that <a href="https://twitter.com/FairweatherPhD/status/15363269653
 <br>
 <hr>
 <h1>Contact</h3>
-<p>You can email the author at: <b>lars.doucet@landisabigdeal.com</b></p>
+<p style="text-align:center;">You can email the author at: <b>lars.doucet@landisabigdeal.com</b></p>

@@ -180,7 +180,7 @@ There's more to this project than just a book. We also have a plan for helping i
 </p>
 <hr>
 <h1>Contact</h3>
-<p>You can email the author at: <b>lars.doucet@landisabigdeal.com</b></p>
+<p style="text-align:center;">You can email the author at: <b>lars.doucet@landisabigdeal.com</b></p>
 <!--
 <h1>What's the big deal?</h1>
 <p>
