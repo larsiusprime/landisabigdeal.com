@@ -173,6 +173,10 @@ Land is a big deal. This book talks about why that's a problem, how things got t
 <p style="text-align:center;">
 <a href="#preorder"><h1>Follow the project & get notified about pre-orders</h1></a>
 </p>
+
+<hr>
+<h1>Contact</h3>
+Email me at: lars.doucet@landisabigdeal.com
 <!--
 <h1>What's the big deal?</h1>
 <p>

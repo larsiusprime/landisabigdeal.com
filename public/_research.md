@@ -152,10 +152,10 @@ She has said that <a href="https://twitter.com/FairweatherPhD/status/15363269653
 <h3>What's Left</h3>
 <p>So what do we still need to do? <b>Finish the models</b>, for one.</p>
 <p>Then, we'll <b>release all our data and methodology</b> and <b>publish an academic paper.</b></p>
-<p>Just as important though is writing a paper “for the masses” – ie, more blogging and book-writing. The same kind of stuff found in <i>Land is a Big Deal.</i></p>
+<p>Just as important though is <b>writing a paper “for the masses”</b> – ie, more blogging and book-writing. The same kind of stuff found in <i>Land is a Big Deal.</i></p>
 <p>We’ll then <b>put together a detailed “how to” guide for practitioners</b> and the public to follow to reproduce our work.</p>
-<p>Finally, if we succeed we’ll move into phase 2 – trying to generalize this model and test it in other cities, and provide more tools to make this something that anyone can do, anywhere, and build it out into an open assessment movement.</p>
-<p>Armed with a modern and fully open mass appraisal method, we'll be able to implement Land Value Tax in municipalities across the world, with a central focus on the moderate and pragmatic revenue-neutral property tax shift to land. We will seek to aid ongoing LVT efforts in municipalities like Detroit, and expand from there.</p>
+<p>Finally, if we succeed we’ll move into phase 2 – <b>generalize this model and test it in other cities</b>, and provide more tools to make this something that anyone can do, anywhere, and build it out into an open assessment movement.</p>
+<p>Armed with a modern and fully open mass appraisal method, we'll be able to help implement Land Value Tax in municipalities across the world, with a central focus on the moderate and pragmatic revenue-neutral property tax shift to land. We will seek to aid ongoing LVT efforts in municipalities like Detroit, and expand from there.</p>
 <p>The time for Land Value Tax has come, and by George, we're here to see it through.</p>
 <br>
 <hr>
@@ -185,5 +185,9 @@ She has said that <a href="https://twitter.com/FairweatherPhD/status/15363269653
 </form>
 </div>
 
+
 <!--End mc_embed_signup-->
 <br>
+<hr>
+<h1>Contact</h3>
+Email me at: lars.doucet@landisabigdeal.com
