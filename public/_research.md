@@ -77,7 +77,7 @@ Improving assessments are an important lever for moving towards Land Value Tax p
 </p>
 <h3>Aren't we doing this already?</h3>
 <p>
-But like what's the big deal? Don't most municipalities already separately value land from buildings? Indeed, in our own personal property tax records there are separate line items for land value and building value. There's a couple reasons we think the status quo could use some improvement, however.
+But is this really important? Aren't most municipalities already separately value land from buildings? Indeed, in our own personal property tax records there are separate line items for land value and building value. There's a couple reasons we think the status quo could use some improvement, however.
 </p>
 <p>
 For one, <b>the latest methods aren't available everywhere.</b> A lot of great research has come out in just the last ten years, but these methods haven't always filtered down to every municipality. There's a lot of local variation and just getting people to update to current standards can make a big difference.
