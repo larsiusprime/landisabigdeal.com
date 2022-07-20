@@ -70,10 +70,10 @@ Okay, sounds great! What stands in the way?
 <br>
 <h2>The "Land Is a Big Deal" Computer-Assisted Mass Apprasial Project</h2>
 <p>
-We are building an open data computer-assisted mass appraisal model. This is a way to estimate the values of a lot of properties at once. We will publish all of our methods and rely as much as possible on public data sources.
+We are building an open data computer-assisted mass appraisal model. This is a way to estimate the values of a lot of properties at once. We will publish all of our results, methods, and data and we will rely as much as possible on public data sources as inputs.
 </p>
 <p>
-Improving assessments are an important lever for moving towards Land Value Tax policy for a variety of reasons: you need the data in order to levy an LVT, but you also need good data for advocacy. You can't build a winning political coalition without talking about who pays more and who pays less, and you need to come armed with data to show that a revenue neutral property tax shift to land will leave most voters better off. But there's another important reason that fixing assessments are so important: <i>updating land value assessments can be equivalent to levying a partial LVT, without changing any laws!</i>
+Improving assessments are an important lever for moving towards Land Value Tax policy for a variety of reasons: you need the data in order to levy an LVT, but you also need good data for advocacy. You can't build a winning political coalition without talking about who pays more and who pays less after a tax shift. You must come armed with data to show that a revenue neutral property tax shift to land will leave most voters better off. So even apart from actually assessing the tax, you need the data just to <i>advocate</i> for it. But there's another important reason that improving assessments are so crucial: <i>updating land value assessments can be equivalent to levying a partial LVT, without changing any laws!</i>
 </p>
 <h3>Aren't we doing this already?</h3>
 <p>
