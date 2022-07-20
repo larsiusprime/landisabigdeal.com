@@ -68,7 +68,7 @@ Okay, sounds great! What stands in the way?
 <br>
 <hr>
 <br>
-<h2>The "Land Is a Big Deal" Computer-Assisted Mass Apprasial Project</h2>
+<h2>The "Land Is a Big Deal"<br>Computer-Assisted Mass Apprasial Project</h2>
 <p>
 We are building an open data computer-assisted mass appraisal model. This is a way to estimate the values of a lot of properties at once. We will publish all of our results, methods, and data and we will rely as much as possible on public data sources as inputs.
 </p>
