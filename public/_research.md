@@ -77,13 +77,13 @@ Improving assessments are an important lever for moving towards Land Value Tax p
 </p>
 <h3>Aren't we doing this already?</h3>
 <p>
-But like what's the big deal? Don't most municipalities already separately value land from buildings? Indeed, in my own property tax records there are separate line items for land value and building value. There's a couple reasons we think the status quo could use some improvement, however.
+But like what's the big deal? Don't most municipalities already separately value land from buildings? Indeed, in our own personal property tax records there are separate line items for land value and building value. There's a couple reasons we think the status quo could use some improvement, however.
 </p>
 <p>
 For one, <b>the latest methods aren't available everywhere.</b> A lot of great research has come out in just the last ten years, but these methods haven't always filtered down to every municipality. There's a lot of local variation and just getting people to update to current standards can make a big difference.
 </p>
 <p>
-Second, <b>the real problem isn’t always methods, but data</b>. Not everyone has access to good data – 12 states (including Texas) have “real estate non disclosure laws,” which hide property sales transactions data from public view. So we’re looking into ways to get around this.
+Second, <b>the real problem isn’t always methods, but data</b>. Not everyone has access to good data – 12 states (including Texas) have “real estate non disclosure laws,” which hide property sales transactions data from public view. Part of our project is looking into ways to get around this.
 </p>
 <p>
 Third, <b>many assessments are out of date</b>. Anywhere that land values haven't been updated in a long time, they are  likely to be under-assessed. Here's a slide from the <a href="https://iaao.org">International Association of Assessment Officers</a> 2017 survey about local policies, as you can see many jurisdictions do not mandate frequent re-assesssments: 
@@ -96,8 +96,8 @@ As an example, here's a listing for a property in Manhattan where the assessed l
 Fourth, <b>not everyone values land separately from buildings.</b> We haven't seen separate assessments for land and and buildings in Detroit and Philadelphia's data sets, for instance.
 </p>
 <p>Fifth, <b>many datasets focus heavily on building characteristics.</b> That is, the datasets focus heavily on the physical properties of the buildings, rather than the land.
-Take a look at this image, for instance:
-<img src="content/images/ames.png" style="max-width:100%; display:block; margin:auto;">
+Take a look at this image, for instance:<br><br>
+<img src="content/images/ames.png" style="max-width:100%; display:block; margin:auto;"><br><br>
 This is the famous Ames Iowa dataset that’s so frequently used as a tutorial in machine learning. All the blue stuff is essentially characteristics of the building itself, and the yellow are characteristics that have to do with land, location, or proximity to things. White is metadata. 75% of this data set is building characteristics!
 <br><br>
 We argue that we should probably flip this mentality – focusing primarily on land characteristics. We’ll still factor in building characteristics, but they should be a secondary concern.
@@ -107,21 +107,21 @@ Finally, <b>inaccurate and infrequent assessments lead to tax revolts.</b> Land 
 </p>
 <h3>How will we improve things?</h3>
 <p>
-First, we'll <b>demonstrate that land value can be accurately estimated apart from building values</b>.
+First, we'll <b>demonstrate that land value can be accurately estimated</b> apart from building values.
 <p>Second, <b>all of our data will be open</b>. The raw inputs, the cleaned inputs, and the detailed methodology itself will be laid out clearly and publicly so anyone can pick up our work and reproduce it themselves in their own jurisdiction.
 <br><br>
 This is not just for the sake of adoption by assessors offices, but to make mass appraisal something that is not just for specialists and government officials. If the public can run and understand the models themselves they will be more willing to accept the assessments.
 </p> 
-<p>Third, we'll <b>Align with IAAO standards & work with assessors to speak their language</b>. We don’t want to be perceived as meddlesome outsiders that want to make life hard for working assessors. We want to learn their language and align to the standards of the professional body that they are used to, the IAAO. This is why we are working with Paul Bidanset, an experienced assessor and former IAAO employee and researcher, as well as Ted Gwartney, an experienced assessor and professor of real estate appraisal.
+<p>Third, we'll <b>align with IAAO standards & work with assessors to speak their language</b>. We don’t want to be perceived as meddlesome outsiders that want to make life hard for working assessors. We want to learn their language and align to the standards of the professional body that they are used to, the IAAO. This is why we are working with Paul Bidanset, an experienced assessor and former IAAO employee and researcher, as well as Ted Gwartney, an experienced assessor and professor of real estate appraisal.
 </p>
-<p>Fourth, we'll <b>build a model that can be run cheaply and frequently.</b>Our goal is for the model to update property values at least once a year.
+<p>Fourth, we'll <b>build a model that can be run cheaply and frequently.</b> Our goal is for the model to update property values at least once a year.
 </p>
 <h3>Our Approach</h3>
-<p>The heart of our model is to <b>value land directly</b> by focusing specifically on land based characteristics. We mean things like, “school district you are in,” “distance to public amenities like transit, parks, hospitals, etc.” As well as distance to anything desirable (green space, water) and undesirable (pollution, crime, noise, etc). The advantage of all these properties is that they don’t require you to go into people’s houses and take a bunch of measurements. You can just take the location of these known feature on the map and calculate distance to them for every property.
+<p>The heart of our model is to <b>value land directly</b> by focusing specifically on land based characteristics. We mean things like, “school district you are in,” “distance to public amenities like transit, parks, hospitals, etc.” As well as distance to anything desirable (green space, water) and undesirable (pollution, crime, noise, etc). The advantage of all these properties is that they don’t require you to go into people’s houses and take a bunch of measurements. You can take the location of these known feature on the map and calculate distance to them for every property.
 </p>
 <p>
 <img src="content/images/hoskins_newzealand.png" style="max-width:100%; display:block; margin:auto;">
-So here are some examples from our modeller Stephen Hoskins' prior research – this is in Auckland, New Zealand. On the left you have a map of what the independent contribution of distance to the CBD – central business district (aka, “downtown”) to the value of the land. The closer you get to the center, the higher the value.
+<br><br>Here are some examples from our modeller Stephen Hoskins' prior research – this is in Auckland, New Zealand. On the left you have a map of what the independent contribution of distance to the CBD – central business district (aka, “downtown”) to the value of the land. The closer you get to the center, the higher the value.
 <br><br>
 On the right you have the independent contribution of proximity to water to land value. Closer to water – higher land value.
 <br><br>
@@ -133,4 +133,25 @@ As you can see CBD proximity has a higher impact.
 </p>
 
 <h3>What We've Done So Far</h3>
-
+<p>We started by <b>doing a survey of what data is even available for the top 20 US metro areas.</b> Here's an overview:<br><br>
+<img src="content/images/assessor_data.webp" style="max-width:100%; display:block; margin:auto;"><br><br>
+Philadelphia has among the best data and best data policies in the country. Texas cities have some decent data portals and access rules but are burdened by real estate non disclosure laws. And the most onerous and restrictive municipality in the country is Santa Clara county – the seat of Silicon Valley, ironically – which charges over $40,000 just to access the same data basically everyone else gives out for free or for very cheap.
+ </p>
+<p>
+We’ve also <b>read a bunch of research papers</b> and <b>assembled a team of knowledgeable experts with relevant experience</b>. I just wrote this book about how land is a really big Deal, Stephen Hoskins is our model builder, who recently submitted his Master’s thesis on the subject of what factors drive land values. Ted Gwartney and Paul Bidanset are experienced assessors who are advising us, and Will Jarvis heads up the business side.
+</p>
+<p>
+We've also collected a bunch of data from municipal open data portals.
+<img src="content/images/openphilly.png" style="max-width:100%; display:block; margin:auto;"><br><br>A lot of municipalities have started doing this kind of high quality centralized data gathering. Philly is probably the best, but there are many that are its peers and our method could be applied to any of them.
+<br><br>We’ve done a good bit of cleaning on it as well as mapping it together with other sources of public data. Documenting this procedure into a reproducible pipeline will be one of our deliverables.</p>
+<p>Finally, the chief economist of Redfin, Daryl Fairweather, is apparently a huge fan of Land Value Tax policy and Georgism. Will and I invited her onto our podcast and we had a great discussion about the subject. She has said that researchers should contact Redfin if they want to work out a data partnership, and we’ve sent in our application. If RedFin can share their data with us, that will allow us to circumvent the real estate non disclosure laws that operate in so many areas. Our project doesn't depend on this, mind you, and we have no idea how long it might take to work our such a partnership, or whether it will come to fruition at all, but we're actively pursuing this and other such leads. If you have access to this kind of data, please reach out to us!
+<iframe width="526" height="296" src="https://www.youtube.com/embed/C1irC3HG--U" title="Daryl Fairweather - The Housing Crisis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<h3>What's Left</h3>
+<p>So what do we still need to do? <b>Finish the models</b>, for one.</p>
+<p>Then, we'll <b>release all our data and methodology</b> and <b>publish an academic paper.</b></p>
+<p>Just as important though is writing a paper “for the masses” – ie, more blogging and book-writing. The same kind of stuff found in <i>Land is a Big Deal.</i></p>
+<p>We’ll then <b>put together a detailed “how to” guide for practitioners</b> and the public to follow to reproduce our work.</p>
+<p>Finally, if we succeed we’ll move into phase 2 – trying to generalize this model and test it in other cities, and provide more tools to make this something that anyone can do, anywhere, and build it out into an open assessment movement.</p>
+<p>Armed with a modern and fully open mass appraisal method, we'll be able to implement Land Value Tax in municipalities across the world, with a central focus on the moderate and pragmatic revenue-neutral property tax shift to land. We will seek to aid ongoing LVT efforts in municipalities like Detroit, and expand from there.</p>
+<p>The time for Land Value Tax has come, and by George, we're here to see it through.</p>
