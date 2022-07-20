@@ -59,14 +59,15 @@ values offset by increases in the value of structures.
 </blockquote>
 
 </p>
+<h2>Obstacles</h2>
 <p>
 Okay, sounds great! What stands in the way?
 </p>
-<h2>Obstacles</h2>
-<p>A few things.</p>
-<p>First of all, split-rate property taxes are illegal in several U.S. states, including my own home state of Texas. The Texas constitution has a clause that specifically pre-empts local municipalities from taxing land at a separate rate from buildings. So any move to shift property taxes off buildings and onto land will require an amendment to the state constitution (which thankfully is much easier than amending the U.S. constitution). There are other places where split-rate property taxes are allowed; Pennsylvania is a good example of a U.S. state that does so, and Denmark is a good example of a sovereign country that allows it throughout its territory.</p>
-<p>Second, properly taxing land values requires having a modern and up-to-date assessor's office. This is where our team comes in. Our grant project is specifically focused on the task of improving the status quo of land value assessment practices</p>
-
+<p>First of all, split-rate property taxes are illegal in several U.S. states, including my own home state of Texas. The Texas constitution has a clause that specifically pre-empts local municipalities from taxing land at a separate rate from buildings. So any move to shift property taxes off buildings and onto land will require an amendment to the state constitution (which thankfully is much easier than amending the U.S. constitution). Texans can and should repeal this troublesome clause, but it means that for now we will be focusing our initial efforts on municipalities with more favorable state laws (Pennsylvania is a good example of a U.S. state that does so, and Denmark is a good example of a sovereign country that allows it throughout its territory).</p>
+<p>Second, properly taxing land values requires having a modern and up-to-date assessor's office. This is where our team comes in. Our grant project is specifically focused on the task of improving the status quo of land value assessment practices, which we have identified as a key issue standing in the way of LVT policy implementation.</p>
+<br>
+<hr>
+<br>
 <h2>The "Land Is a Big Deal" Computer-Assisted Mass Apprasial Project</h2>
 <p>
 We are building an open data computer-assisted mass appraisal model. This is a way to estimate the values of a lot of properties at once. We will publish all of our methods and rely as much as possible on public data sources.
