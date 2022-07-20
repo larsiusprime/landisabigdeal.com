@@ -127,7 +127,7 @@ On the right you have the independent contribution of proximity to water to land
 </p>
 <p>We’re going to <b>test multiple models</b> (algorithms, that is). The simplest is MRA, multiple linear regression. This is essentially an elaboration on 7th grade algebra you’re probably already familiar with. It’s simple, it’s transparent, it’s easy to explain, and that’s why it’s a staple of assessor’s offices. We’ll also be testing more “advanced” models like boosted decision trees, neural network models, geospatial models, and more, and then compare the tradeoffs in accuracy versus explainability.
 </p>
-<p>We’re also going to do lots of <a href="https://www.iaao.org/media/standards/Standard_on_Ratio_Studies.pdf">ratio studies</a>. This is where you compare the estimated values versus what prices the properties actually go for in the market. To test land values specifically we will run tests for both horizontal and vertical inequities, as well as plot land value maps.
+<p>We’re also going to <b>do lots of <a href="https://www.iaao.org/media/standards/Standard_on_Ratio_Studies.pdf">ratio studies</a></b>. This is where you compare the estimated values versus what prices the properties actually go for in the market. To test land values specifically we will run tests for both <a href="https://researchexchange.iaao.org/jptaa/vol14/iss2/5/">horizontal and vertical inequities</a>, as well as plot land value maps.
 </p>
 
 <h3>What We've Done So Far</h3>
