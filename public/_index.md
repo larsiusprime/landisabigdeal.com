@@ -106,23 +106,9 @@ If you've read about Henry George and his book Progress and Poverty, but never a
 <p>This book has its origin in a series of guest articles posted on the website <a href="https://astralcodexten.substack.com">Astral Codex Ten</a>. The first of these was a <a href="https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty">book review of <i>Progress & Poverty</i></a>, which won first place in <a href="https://astralcodexten.substack.com/p/book-review-contest-winners">the site's book review contest</a>. The site's audience was intrigued by the idea and asked for some follow-ups evaluating the empirical claims of Georgism, which resulted in the three-part series, <a href="https://astralcodexten.substack.com/p/does-georgism-work-is-land-really">"Does Georgism Work?"</a> The entire series was eventually collected and re-posted on the standalone site <a href="https://www.gameofrent.com/">Game of Rent</a>. These have now been edited and collected into this book, <i>Land is a Big Deal</i>, published by Shack Simple Press.
 </p>
 <p>
-Here are a few key findings:
-
-<ul>
-<li>Most of the value of urban real estate is land</li>
-<li>All of America's land rents equal a sizable % of government spending</li>
-<li>Land represents a significant % of all major bank loans</li>
-<li>Land represents a significant % of the value of gross personal assets</li>
-<li>Land ownership is highly concentrated among the wealthy</li>
-<li>Land value taxes are not passed on to tenants in empirical studies</li>
-<li>Land value assessment techniques are improving every day</li>
-</ul>
-
+Here are a few key findings.
 </p>
 <p>
-Let's give some practical examples of what this means.
-</p>
-
 Conservative estimates indicate a Land Value Tax could raise an amount equal to 30-100% of all federal tax receipts:<br><br>
 <img src="content/images/2019_federal_vs_2019_land_rent.png" style="max-width:67%; display:block; margin:auto;">
 
