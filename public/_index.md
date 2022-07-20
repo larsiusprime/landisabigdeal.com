@@ -2,7 +2,9 @@
 <br>
 <hr>
 <br>
+<a id="preorder">
 <h1>Get notified as soon as pre-orders go live:</h1>
+</a>
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -32,7 +34,9 @@
 <hr>
 <br>
 
+<a id="praise">
 <h1>Praise for "Land is a Big Deal":</h1>
+</a>
 
 <blockquote class="quoteleft">
 Inspiring a renewal of interest in Georgist ideas whose full ramifications are yet to be determined.
@@ -76,7 +80,9 @@ If you've read about Henry George and his book Progress and Poverty, but never a
 <br>
 <hr>
 <br>
+<a id="synopsis">
 <h1>Synopsis</h1>
+</a>
 <p>Popular economic debate is obsessed with just two things: Labor and Capital. Labor is the exertion of human beings, and Capital is the stored-up product of labor, transformed into tools, machines, and other useful things used to help produce more wealth. Labor and Capital each have their own dominant school of thought—Socialism and Capitalism, respectively—that have spent the last century sucking up all the oxygen and leaving little room for alternatives.</p>
 <p>Proponents of Capital focus on topline GDP and the stock market and support investment, capital formation, and business owners. Proponents of Labor focus on working conditions and compensation and support the health, education, welfare, and bargaining power of the people who do all the work. Crucially, we've been trained to see these two camps as fundamentally opposed–if we want to stimulate growth and economic progress, it means squeezing workers, and if we want to take care of workers it means accepting higher taxes, more barriers to starting and running a business, and a hit to overall economic growth.</p>
 <p>But what if we've been missing out on a crucial piece of the puzzle, something that flips the entire script?</p>
