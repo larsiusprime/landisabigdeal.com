@@ -105,7 +105,7 @@ ol {
  line-height:25px
 }
 blockquote {
- font-family:serif;
+ font-family:"Segoe UI", "Arial", "sans-serif";
  font-style:italic;
  font-size:18pt;
  background-color:#f5f5fa;
@@ -131,6 +131,7 @@ p img {
 blockquote::before {
  display:inline-block;
  font-weight:normal;
+ font-family:"serif";
  content:"“";
  font-size:55pt;
  position:relative;
