@@ -122,7 +122,7 @@ If you did LVT only at the state level, even the most pessimistic estimates woul
 This is because <i>Land is a big deal</i>. It's no coincidence that Real estate is the world's single largest asset class:<br><br>
 <img src="content/images/mckinsey_land.png" style="max-width:67%; display:block; margin:auto;">
 
-Real estate comprises an ever-increasing majority share of bank loans:<br><br>
+...or that real estate comprises an ever-increasing majority share of bank loans:<br><br>
 <img src="content/images/real_estate_bank_lending_graph.png" style="max-width:67%; display:block; margin:auto;">
 
 And of course, the vast majority of that real estate's value is due to land:<br><br>
