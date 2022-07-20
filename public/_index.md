@@ -125,12 +125,12 @@ Put another way, on the low end that's enough to fully fund any ONE of our three
 <img src="content/images/2019_federal_vs_2019_land_rent.png" style="max-width:67%; display:block; margin:auto;">
 <p style="text-align:center;"><small>Source: <i>Land is a Big Deal</i></small></p>
 
-If you did LVT only at the state level, even the most pessimistic estimates would cover the majority of current state spending levels:<br><br>
+If LVT is levied only at the state level, even the most pessimistic estimates would cover the majority of current state spending levels:<br><br>
 <img src="content/images/land_rent_vs_net_state_spending.png" style="max-width:67%; display:block; margin:auto;">
 <p style="text-align:center;"><small>Source: <i>Land is a Big Deal</i></small></p>
 </p>
 <p>
-This is because <i>Land is a Big Deal</i>. It's no coincidence that Real estate is the world's single largest asset class:<br><br>
+This is because <i>Land is a Big Deal</i>. It's no coincidence that real estate is the world's single largest asset class:<br><br>
 <img src="content/images/mckinsey_land.png" style="max-width:67%; display:block; margin:auto;">
 <p style="text-align:center;"><small>Source: <a href="">McKinsey & Company</a></small></p>
 
