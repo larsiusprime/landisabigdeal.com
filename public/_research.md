@@ -86,10 +86,10 @@ For one, <b>the latest methods aren't available everywhere.</b> A lot of great r
 Second, <b>the real problem isn’t always methods, but data</b>. Not everyone has access to good data – 12 states (including Texas) have “real estate non disclosure laws,” which hide property sales transactions data from public view. Part of our project is looking into ways to get around this.
 </p>
 <p>
-Third, <b>many assessments are out of date</b>. Anywhere that land values haven't been updated in a long time, they are  likely to be under-assessed. Here's a slide from the <a href="https://iaao.org">International Association of Assessment Officers</a> 2017 survey about local policies, as you can see many jurisdictions do not mandate frequent re-assesssments: 
+Third, <b>many assessments are out of date</b>. Anywhere that land values haven't been updated in a long time, they are  likely to be under-assessed. Here's a slide from the <a href="https://iaao.org">International Association of Assessment Officers</a> 2017 survey about local policies, as you can see many jurisdictions do not mandate frequent re-assesssments: <br><br>
 <img src="content/images/ptapp_reassessment.png" style="max-width:100%; display:block; margin:auto;">
 
-As an example, here's a listing for a property in Manhattan where the assessed land value hasn't changed in ten years, even though the market value of the property increased by $3 million during that time:
+As an example, here's a listing for a property in Manhattan where the assessed land value hasn't changed in ten years, even though the market value of the property increased by $3 million during that time:<br><br>
 <img src="content/images/manhattan_wtf.png" style="max-width:100%; display:block; margin:auto;">
 </p>
 <p>
@@ -123,9 +123,7 @@ This is not just for the sake of adoption by assessors offices, but to make mass
 <img src="content/images/hoskins_newzealand.png" style="max-width:100%; display:block; margin:auto;">
 <br><br>Here are some examples from our modeller Stephen Hoskins' prior research – this is in Auckland, New Zealand. On the left you have a map of what the independent contribution of distance to the CBD – central business district (aka, “downtown”) to the value of the land. The closer you get to the center, the higher the value.
 <br><br>
-On the right you have the independent contribution of proximity to water to land value. Closer to water – higher land value.
-<br><br>
-As you can see CBD proximity has a higher impact. 
+On the right you have the independent contribution of proximity to water to land value. Closer to water – higher land value (as you can see, the CBD proximity has a higher impact overall).
 </p>
 <p>We’re going to <b>test multiple models</b> (algorithms, that is). The simplest is MRA, multiple linear regression. This is essentially an elaboration on 7th grade algebra you’re probably already familiar with. It’s simple, it’s transparent, it’s easy to explain, and that’s why it’s a staple of assessor’s offices. We’ll also be testing more “advanced” models like boosted decision trees, neural network models, geospatial models, and more, and then compare the tradeoffs in accuracy versus explainability.
 </p>
@@ -138,14 +136,18 @@ As you can see CBD proximity has a higher impact.
 Philadelphia has among the best data and best data policies in the country. Texas cities have some decent data portals and access rules but are burdened by real estate non disclosure laws. And the most onerous and restrictive municipality in the country is Santa Clara county – the seat of Silicon Valley, ironically – which charges over $40,000 just to access the same data basically everyone else gives out for free or for very cheap.
  </p>
 <p>
-We’ve also <b>read a bunch of research papers</b> and <b>assembled a team of knowledgeable experts with relevant experience</b>. I just wrote this book about how land is a really big Deal, Stephen Hoskins is our model builder, who recently submitted his Master’s thesis on the subject of what factors drive land values. Ted Gwartney and Paul Bidanset are experienced assessors who are advising us, and Will Jarvis heads up the business side.
+We’ve also <b>read a bunch of research papers</b> and <b>assembled a team of knowledgeable experts with relevant experience</b>. As for myself (Lars Doucet), I just wrote this book about how land is a really big deal, and am also an experienced computer programmer familiar with machine learning. Stephen Hoskins is our model builder, who recently submitted his Master’s thesis on the subject of what factors drive land values. <a href="https://www.linkedin.com/in/ted-gwartney-mai-56145926?original_referer=">Ted Gwartney</a> and <a href="https://www.linkedin.com/in/paulbidanset?trk=public_profile_browsemap">Paul Bidanset</a> are experienced assessors who are advising us, and <a href="https://narrativespodcast.com/">Will Jarvis</a> heads up the business side.
 </p>
 <p>
-We've also collected a bunch of data from municipal open data portals.
+We've also collected a bunch of data from municipal open data portals. Here's an example of what we mean:<br><br>
 <img src="content/images/openphilly.png" style="max-width:100%; display:block; margin:auto;"><br><br>A lot of municipalities have started doing this kind of high quality centralized data gathering. Philly is probably the best, but there are many that are its peers and our method could be applied to any of them.
 <br><br>We’ve done a good bit of cleaning on it as well as mapping it together with other sources of public data. Documenting this procedure into a reproducible pipeline will be one of our deliverables.</p>
-<p>Finally, the chief economist of Redfin, Daryl Fairweather, is apparently a huge fan of Land Value Tax policy and Georgism. Will and I invited her onto our podcast and we had a great discussion about the subject. She has said that researchers should contact Redfin if they want to work out a data partnership, and we’ve sent in our application. If RedFin can share their data with us, that will allow us to circumvent the real estate non disclosure laws that operate in so many areas. Our project doesn't depend on this, mind you, and we have no idea how long it might take to work our such a partnership, or whether it will come to fruition at all, but we're actively pursuing this and other such leads. If you have access to this kind of data, please reach out to us!
-<iframe width="526" height="296" src="https://www.youtube.com/embed/C1irC3HG--U" title="Daryl Fairweather - The Housing Crisis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>Finally, the chief economist of Redfin, Daryl Fairweather, is apparently a huge fan of Land Value Tax policy and Georgism. Will and I invited her onto our podcast and we had a great discussion about the subject:<br><br>
+
+<iframe style="position:relative; display:block; margin:auto;" width="526" height="296" src="https://www.youtube.com/embed/C1irC3HG--U" title="Daryl Fairweather - The Housing Crisis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+
+She has said that <a href="https://twitter.com/FairweatherPhD/status/1536326965384323072">researchers should contact Redfin</a> if they want to work out a data partnership, and we’ve sent in our application. If RedFin can share their data with us, that will allow us to circumvent the real estate non disclosure laws that operate in so many areas. Our project doesn't fundamentally depend on this, mind you, and we have no idea how long it might take to work our such a partnership, or whether it will even come to fruition at all. Nevertheless, we're actively pursuing this and other such leads. If you have access to this kind of data, please reach out to us!
+
 </p>
 <h3>What's Left</h3>
 <p>So what do we still need to do? <b>Finish the models</b>, for one.</p>
