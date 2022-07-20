@@ -5,13 +5,13 @@ What comes next after writing <i>Land is a Big Deal</i>? Putting together a comp
 </p>
 
 <p>
-So how do we actually achieve LVT policies in practice? Aren't there a host of political obstacles? And isn't the U.S. congress perpetually stuck in partisan gridlock where almost nothing gets done? How could this ever get done?
+So how do we actually achieve LVT policies in practice? Aren't there a host of political obstacles? And isn't the U.S. congress perpetually stuck in partisan gridlock where almost nothing gets done? How could this ever move forward?
 </p>
 
 <p>
 Like this:
 <ul>
-<li>Bottom-up, not top-down; start local
+<li>Bottom-up, not top-down.
 <li>Identify municipalities already friendly to the idea
 <li>Identify practical obstacles that stand in the way
 <li>Overcome those obstacles
@@ -24,13 +24,13 @@ Like this:
 <p>
 (Note that target municipalities do not have to be limited to the U.S. -- we are interested in implementing LVT experiments anywhere and everywhere in the world.)
 <br><br>
-What follows below is a rough sketch of our general plan and approach.
+What follows below is a rough sketch of our general plan and what we've accomplished so far in our research.
 </p>
 
-<h2>Revenue-Neutral Property Tax Shift to Land</h2>
+<h2>Goal: Revenue-Neutral Property Tax Shift to Land</h2>
 
 <p>
-The best immediate policy to achieve our goals is to leverage existing systems and push for split-rate property tax policies that allow local municipalities to tax land and buildings at separate rates. Crucially, the <i>exact same amount of property tax</i> will be collected, the only difference being where the tax money comes from. We favor eliminating taxes on buildings entirely, moving the full burden of taxation onto unimproved land value, but any shift that moves the needle towards land is an improvement over the status quo.
+The best immediate policy to achieve our goals is to leverage existing systems and push for split-rate property tax policies that allow local municipalities to tax land and buildings at separate rates. Crucially, the <i>exact same amount of property tax</i> will be collected, the only difference being where the tax money comes from. We favor eliminating taxes on buildings entirely, moving the full burden of taxation onto unimproved land value, but any shift that moves the needle towards land is an improvement over the status quo. "Full" Land Value Tax can wait, just achieving this would be a massive improvement over the status quo and can be truthfully framed as a moderate, pragmatic reform that works within the existing system.
 </p>
 
 <p>
