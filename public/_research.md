@@ -11,7 +11,7 @@ So how do we actually achieve LVT policies in practice? Aren't there a host of p
 <p>
 Like this:
 <ul>
-<li>Bottom-up, not top-down.
+<li>Start from the bottom-up, not the top-down
 <li>Identify municipalities already friendly to the idea
 <li>Identify practical obstacles that stand in the way
 <li>Overcome those obstacles
