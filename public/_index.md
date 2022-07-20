@@ -126,7 +126,7 @@ Let's give some practical examples of what this means.
 Conservative estimates indicate a Land Value Tax could raise an amount equal to 30-100% of all federal tax receipts:<br>
 <img src="content/images/2019_federal_vs_2019_land_rent.png" style="max-width:67%; display:block; margin:auto;">
 
-Put another way, on the low end that's enough to fully fund any ONE of our three major non-discretionary spending obligations: social security, healthcare, or the defense budget. On the higher end (which are the estimates I find most credible), a Land Value Tax could fully fund all three, with money left over to spare:<br>
+Put another way, on the low end that's enough to fully fund any ONE of our three major non-discretionary spending obligations: social security, healthcare, or the defense budget. On the higher end (which uses the most credible estimation method), a Land Value Tax could fully fund all three, with money left over to spare:<br>
 <img src="content/images/2019_federal_vs_2019_land_rent.png" style="max-width:67%; display:block; margin:auto;">
 
 If you did LVT only at the state level, even the most pessimistic estimates would cover the majority of current state spending levels:<br>
