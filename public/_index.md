@@ -3,14 +3,14 @@
 <hr>
 <br>
 <a id="preorder"></a>
-<h1>Follow our work & get notified when pre-orders go live:</h1>
+<h1>Follow the project & get notified about pre-orders:</h1>
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:600px;}
-	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+	#mc_embed_signup .button{font-size:15pt;}
+	#mc_embed_signup .mc-field-group input {font-size:15pt;}
 </style>
 <div id="mc_embed_signup" style="position:relative; margin:auto;">
 <form action="https://leveluplabs.us7.list-manage.com/subscribe/post?u=89f9e9b0bb41413ed913a1ba4&amp;id=b2edb3e4a0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -171,7 +171,7 @@ Land is a big deal. This book talks about why that's a problem, how things got t
 </p>
 
 <p style="text-align:center;">
-<a href="#preorder"><h1>Follow our work & get notified when pre-orders go live</h1></a>
+<a href="#preorder"><h1>Follow the project & get notified about pre-orders</h1></a>
 </p>
 <!--
 <h1>What's the big deal?</h1>
