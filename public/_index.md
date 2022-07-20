@@ -161,6 +161,10 @@ With predictable effects on the rates of generational home-ownership:<br><br>
 
 Land is a big deal. This book talks about why that's a problem, how things got this way, and what we can do about it.
 </p>
+
+<p style="text-align:center;">
+<h1>Get notified as soon as pre-orders go live:</h1>
+</p>
 <!--
 <h1>What's the big deal?</h1>
 <p>
