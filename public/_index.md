@@ -97,7 +97,14 @@ If you've read about Henry George and his book Progress and Poverty, but never a
 <p>PART III lays out the empirical case for Land Value Tax not being passed on to tenants. I explain the theoretical basis for this and then provide empirical evidence showing the effects of Land Value Tax policies in the real world. Counter to what is often claimed, I demonstrate that landlords not only can't, but empirically don't, simply pass on the tax to their tenants by raising rents.</p>
 <p>PART IV evaluates the available methodology and current state of practice for assessing unimproved land values separately from buildings. I give an overview of established best practices, critique the status quo where it falls short, and present a sampling of the latest methods from the research literature that can improve upon the state of the art.</p>
 <p>PART V concludes by reviewing all the evidence and practical case studies we've seen so far and charts a path forward for the work that lies ahead.</p>
+<br>
+<hr>
+<br>
+<a id="details"></a>
+<h1>Details</h1>
 
+<p>This book has its origin in a series of guest articles posted on the website <a href="https://astralcodexten.substack.com">Astral Codex Ten</a>. The first of these was a <a href="https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty">book review of <i>Progress & Poverty</i></a>, which won first place in <a href="https://astralcodexten.substack.com/p/book-review-contest-winners">the site's book review contest</a>. The site's audience was intrigued by the idea and asked for some follow-ups evaluating the empirical claims of Georgism, which resulted in the three-part series, <a href="https://astralcodexten.substack.com/p/does-georgism-work-is-land-really">"Does Georgism Work?"</a>. The entire series was eventually collected and re-posted on the standalone site <a href="https://www.gameofrent.com/">Game of Rent</a>. These have now been edited and collected into this book, <i>Land is a Big Deal</I>.
+</p>
 <!--
 <h1>What's the big deal?</h1>
 <p>
