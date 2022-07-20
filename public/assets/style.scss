@@ -96,10 +96,12 @@ span.subtitletext {
  font-size:20.5px
 }
 p {
- line-height:25px
+ line-height:24pt;
+ font-size:16pt;
 }
 ul {
- line-height:25px
+ line-height:24pt;
+ font-size:16pt;
 }
 ol {
  line-height:25px
@@ -142,8 +144,4 @@ blockquote::before {
 blockquote footer {
  position:relative;
  text-align:right
-}
-p {
- font-size:16pt;
- line-height:24pt;
 }
