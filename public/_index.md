@@ -127,20 +127,32 @@ If you did LVT only at the state level, even the most pessimistic estimates woul
 <p>
 This is because <i>Land is a big deal</i>. It's no coincidence that Real estate is the world's single largest asset class:<br><br>
 <img src="content/images/mckinsey_land.png" style="max-width:67%; display:block; margin:auto;">
+<small style="text-align:center;">Source: <a href="">McKinsey & Company</a></small>
+
 
 ...or that real estate comprises an ever-increasing majority share of bank loans:<br><br>
 <img src="content/images/real_estate_bank_lending_graph.png" style="max-width:67%; display:block; margin:auto;">
+<small style="text-align:center;">Source: <a href="https://www.nber.org/system/files/working_papers/w20501/w20501.pdf">The Great Mortgaging: Housing Finance, Crises, and Business Cycles</a> by Jordà, Schularick, and Taylor</small>
 
 And of course, the vast majority of that real estate's value is due to land:<br><br>
 <img src="content/images/aei_land_share.png" style="max-width:67%; display:block; margin:auto;">
+<small style="text-align:center;">Source: <a href="https://www.aei.org/housing/land-price-indicators/">American Enterprise Institute</a></small>
+
 
 The power that aristocrats once weilded from controlling agricultural land has shifted to those who own residential land:<br><br>
 <img src="content/images/uk_national_capital.png" style="max-width:67%; display:block; margin:auto;"><br><br>
+<small style="text-align:center;">Source: <i>Capital in the 21<sup>st</sup> Century</i> by Thomas Piketty</small>
+
 <img src="content/images/france_national_capital.png" style="max-width:67%; display:block; margin:auto;"><br><br>
+<small style="text-align:center;">Source: <i>Capital in the 21<sup>st</sup> Century</i> by Thomas Piketty</small>
+
 <img src="content/images/spain_assets.png" style="max-width:67%; display:block; margin:auto;">
+<small style="text-align:center;">Source: <a href="https://web.archive.org/web/20180821115745/http://wid.world/wp-content/uploads/2018/02/WID.WP_ABM_WEALTHSPAIN_2018.pdf">Wealth in Spain, 1900-2014</a> by Blanco, Bauluz, & Martínes-Toledano</small>
+
 
 With predictable effects on the rates of generational home-ownership:<br><br>
 <img src="content/images/homeownership_decline.png" style="max-width:67%; display:block; margin:auto;">
+<small style="text-align:center;">Source: Apartment List</small>
 
 Land is a big deal. This book talks about why that's a problem, how things got this way, and what we can do about it.
 </p>
