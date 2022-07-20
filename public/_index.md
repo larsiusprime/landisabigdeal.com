@@ -119,37 +119,37 @@ Here are a few key findings:
 </ul>
 
 </p>
-<p>Here are a few key figures:
-
+<p>
+Let's give some practical examples of what this means.
 </p>
 
-Conservative estimates indicate a Land Value Tax could raise an amount equal to 30-100% of all federal tax receipts:
+Conservative estimates indicate a Land Value Tax could raise an amount equal to 30-100% of all federal tax receipts:<br>
 <img src="content/images/2019_federal_vs_2019_land_rent.png" style="max-width:67%; display:block; margin:auto;">
 
-Put another way, on the low end that's enough to fully fund any ONE of our three major non-discretionary spending obligations: social security, healthcare, or the defense budget. On the higher end (which are the estimates I find most credible), a Land Value Tax could fully fund all three, with money left over to spare:
+Put another way, on the low end that's enough to fully fund any ONE of our three major non-discretionary spending obligations: social security, healthcare, or the defense budget. On the higher end (which are the estimates I find most credible), a Land Value Tax could fully fund all three, with money left over to spare:<br>
 <img src="content/images/2019_federal_vs_2019_land_rent.png" style="max-width:67%; display:block; margin:auto;">
 
-If you did LVT only at the state level, even the most pessimistic estimates would cover the majority of current state spending levels:
+If you did LVT only at the state level, even the most pessimistic estimates would cover the majority of current state spending levels:<br>
 <img src="content/images/land_rent_vs_net_state_spending.png" style="max-width:67%; display:block; margin:auto;">
 </p>
 <p>
 How is this possible? Well it's because <i>Land is a big deal</i>.
 </p>
-<p>Real estate is the world's single largest asset class:
+<p>Real estate is the world's single largest asset class:<br>
 <img src="content/images/mckinsey_land.png" style="max-width:67%; display:block; margin:auto;">
 
-Real estate comprises an ever-increasing majority share of bank loans:
+Real estate comprises an ever-increasing majority share of bank loans:<br>
 <img src="content/images/real_estate_bank_lending_graph.png" style="max-width:67%; display:block; margin:auto;">
 
-And of course, the vast majority of that real estate's value is due to land:
+And of course, the vast majority of that real estate's value is due to land:<br>
 <img src="content/images/aei_land_share.png" style="max-width:67%; display:block; margin:auto;">
 
-The power that medieval lords once weilded from controlling agricultural land has shifted to those who own residential land:
-<img src="content/images/uk_national_capital.png" style="max-width:67%; display:block; margin:auto;">
-<img src="content/images/france_national_capital.png" style="max-width:67%; display:block; margin:auto;">
+The power that medieval lords once weilded from controlling agricultural land has shifted to those who own residential land:<br>
+<img src="content/images/uk_national_capital.png" style="max-width:67%; display:block; margin:auto;"><br>
+<img src="content/images/france_national_capital.png" style="max-width:67%; display:block; margin:auto;"><br>
 <img src="content/images/spain_assets.png" style="max-width:67%; display:block; margin:auto;">
 
-With predictable effects on the rates of generational home-ownership:
+With predictable effects on the rates of generational home-ownership:<br>
 <img src="content/images/homeownership_decline.png" style="max-width:67%; display:block; margin:auto;">
 
 Land is a big deal. This book talks about why that's a problem, how things got this way, and what we can do about it.
