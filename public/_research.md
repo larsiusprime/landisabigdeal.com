@@ -117,7 +117,7 @@ This is not just for the sake of adoption by assessors offices, but to make mass
 <p>Fourth, we'll <b>build a model that can be run cheaply and frequently.</b> Our goal is for the model to update property values at least once a year.
 </p>
 <h3>Our Approach</h3>
-<p>The heart of our model is to <b>value land directly</b> by focusing specifically on land based characteristics. We mean things like, “school district you are in,” “distance to public amenities like transit, parks, hospitals, etc.” As well as distance to anything desirable (green space, water) and undesirable (pollution, crime, noise, etc). The advantage of all these properties is that they don’t require you to go into people’s houses and take a bunch of measurements. You can take the location of these known feature on the map and calculate distance to them for every property.
+<p>The heart of our model is to <b>value land directly</b> by focusing specifically on land based characteristics. We mean things like, “school district you are in,” “distance to public amenities like transit, parks, hospitals, etc.” As well as distance to anything desirable (green space, water) and undesirable (pollution, crime, noise, etc). The advantage of all these properties is that they don’t require you to go into people’s houses and take a bunch of measurements. You can take the location of these known feature on the map and calculate distance to them for every property. They also have the advantage of being easier to keep up to date over time.
 </p>
 <p>
 <img src="content/images/hoskins_newzealand.png" style="max-width:100%; display:block; margin:auto;">
