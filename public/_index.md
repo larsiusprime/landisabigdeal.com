@@ -173,6 +173,9 @@ Land is a big deal. This book talks about why that's a problem, how things got t
 <p style="text-align:center;">
 <a href="#preorder"><h1>Follow the project & get notified about pre-orders</h1></a>
 </p>
+<hr>
+<h1>What Comes Next?</h1>
+There's more to this project than just a book. We also have a plan for helping implement Land Value Tax policies around the world, and are working on a <a href="/research">research grant project</a> aimed at bringing that about.
 
 <hr>
 <h1>Contact</h3>
