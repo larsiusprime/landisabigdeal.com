@@ -175,8 +175,9 @@ Land is a big deal. This book talks about why that's a problem, how things got t
 </p>
 <hr>
 <h1>What Comes Next?</h1>
+<p>
 There's more to this project than just a book. We also have a plan for helping implement Land Value Tax policies around the world, and are working on a <a href="/research">research grant project</a> aimed at bringing that about.
-
+</p>
 <hr>
 <h1>Contact</h3>
 <p>You can email the author at: <b>lars.doucet@landisabigdeal.com</b></p>
