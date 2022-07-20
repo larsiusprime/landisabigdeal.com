@@ -3,7 +3,7 @@
 <hr>
 <br>
 <a id="preorder"></a>
-<h1>Get notified as soon as pre-orders go live:</h1>
+<h1>Follow our work & get notified when pre-orders go live:</h1>
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -154,8 +154,16 @@ The power that aristocrats once weilded from controlling agricultural land has s
 <img src="content/images/spain_assets.png" style="max-width:67%; display:block; margin:auto;">
 <p style="text-align:center;"><small>Source: <a href="https://web.archive.org/web/20180821115745/http://wid.world/wp-content/uploads/2018/02/WID.WP_ABM_WEALTHSPAIN_2018.pdf">Blanco, Bauluz, & Martínes-Toledano</a></small></p>
 
+This has had predictable effects on housing prices and rent:<br><br>
 
-With predictable effects on the rates of generational home-ownership:<br><br>
+<img src="content/images/book_review_rent_graph.png" style="max-width:67%; display:block; margin:auto;">
+<p style="text-align:center;"><small>Source: Apartment List</small></p>
+<br><br>
+<img src="content/images/fed_rent.jpg" style="max-width:67%; display:block; margin:auto;">
+<p style="text-align:center;"><small>Source: FRED</small></p>
+
+
+Not to mention successively declining rates of generational home-ownership:<br><br>
 <img src="content/images/homeownership_decline.png" style="max-width:67%; display:block; margin:auto;">
 <p style="text-align:center;"><small>Source: Apartment List</small></p>
 
@@ -163,7 +171,7 @@ Land is a big deal. This book talks about why that's a problem, how things got t
 </p>
 
 <p style="text-align:center;">
-<a href="#preorder"><h1>Get notified as soon as pre-orders go live</h1></a>
+<a href="#preorder"><h1>Follow our work & get notified when pre-orders go live</h1></a>
 </p>
 <!--
 <h1>What's the big deal?</h1>
