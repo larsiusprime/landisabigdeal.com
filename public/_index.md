@@ -103,7 +103,56 @@ If you've read about Henry George and his book Progress and Poverty, but never a
 <a id="details"></a>
 <h1>Details</h1>
 
-<p>This book has its origin in a series of guest articles posted on the website <a href="https://astralcodexten.substack.com">Astral Codex Ten</a>. The first of these was a <a href="https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty">book review of <i>Progress & Poverty</i></a>, which won first place in <a href="https://astralcodexten.substack.com/p/book-review-contest-winners">the site's book review contest</a>. The site's audience was intrigued by the idea and asked for some follow-ups evaluating the empirical claims of Georgism, which resulted in the three-part series, <a href="https://astralcodexten.substack.com/p/does-georgism-work-is-land-really">"Does Georgism Work?"</a>. The entire series was eventually collected and re-posted on the standalone site <a href="https://www.gameofrent.com/">Game of Rent</a>. These have now been edited and collected into this book, <i>Land is a Big Deal</I>.
+<p>This book has its origin in a series of guest articles posted on the website <a href="https://astralcodexten.substack.com">Astral Codex Ten</a>. The first of these was a <a href="https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty">book review of <i>Progress & Poverty</i></a>, which won first place in <a href="https://astralcodexten.substack.com/p/book-review-contest-winners">the site's book review contest</a>. The site's audience was intrigued by the idea and asked for some follow-ups evaluating the empirical claims of Georgism, which resulted in the three-part series, <a href="https://astralcodexten.substack.com/p/does-georgism-work-is-land-really">"Does Georgism Work?"</a> The entire series was eventually collected and re-posted on the standalone site <a href="https://www.gameofrent.com/">Game of Rent</a>. These have now been edited and collected into this book, <i>Land is a Big Deal</i>, published by Shack Simple Press.
+</p>
+<p>
+Here are a few key findings:
+
+<ul>
+<li>Most of the value of urban real estate is land</li>
+<li>All of America's land rents equal a sizable % of government spending</li>
+<li>Land represents a significant % of all major bank loans</li>
+<li>Land represents a significant % of the value of gross personal assets</li>
+<li>Land ownership is highly concentrated among the wealthy</li>
+<li>Land value taxes are not passed on to tenants in empirical studies</li>
+<li>Land value assessment techniques are improving every day</li>
+</ul>
+
+</p>
+<p>Here are a few key figures:
+
+</p>
+
+Conservative estimates indicate a Land Value Tax could raise an amount equal to 30-100% of all federal tax receipts:
+<img src="content/images/2019_federal_vs_2019_land_rent.png" style="max-width:67%; display:block; margin:auto;">
+
+Put another way, on the low end that's enough to fully fund any ONE of our three major non-discretionary spending obligations: social security, healthcare, or the defense budget. On the higher end (which are the estimates I find most credible), a Land Value Tax could fully fund all three, with money left over to spare:
+<img src="content/images/2019_federal_vs_2019_land_rent.png" style="max-width:67%; display:block; margin:auto;">
+
+If you did LVT only at the state level, even the most pessimistic estimates would cover the majority of current state spending levels:
+<img src="content/images/land_rent_vs_net_state_spending.png" style="max-width:67%; display:block; margin:auto;">
+</p>
+<p>
+How is this possible? Well it's because <i>Land is a big deal</i>.
+</p>
+<p>Real estate is the world's single largest asset class:
+<img src="content/images/mckinsey_land.png" style="max-width:67%; display:block; margin:auto;">
+
+Real estate comprises an ever-increasing majority share of bank loans:
+<img src="content/images/real_estate_bank_lending_graph.png" style="max-width:67%; display:block; margin:auto;">
+
+And of course, the vast majority of that real estate's value is due to land:
+<img src="content/images/aei_land_share.png" style="max-width:67%; display:block; margin:auto;">
+
+The power that medieval lords once weilded from controlling agricultural land has shifted to those who own residential land:
+<img src="content/images/uk_national_capital.png" style="max-width:67%; display:block; margin:auto;">
+<img src="content/images/france_national_capital.png" style="max-width:67%; display:block; margin:auto;">
+<img src="content/images/spain_assets.png" style="max-width:67%; display:block; margin:auto;">
+
+With predictable effects on the rates of generational home-ownership:
+<img src="content/images/homeownership_decline.png" style="max-width:67%; display:block; margin:auto;">
+
+Land is a big deal. This book talks about why that's a problem, how things got this way, and what we can do about it.
 </p>
 <!--
 <h1>What's the big deal?</h1>
