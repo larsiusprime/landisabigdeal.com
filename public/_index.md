@@ -118,53 +118,53 @@ So how much can Land Value Tax raise?
 </p>
 <p>
 Conservative estimates indicate a Land Value Tax could raise an amount equal to 30-100% of all federal tax receipts:<br><br>
-<img src="content/images/land_rent_vs_federal_receipts.png" style="max-width:67%; display:block; margin:auto;">
+<img src="content/images/land_rent_vs_federal_receipts.png" style="max-width:100%; display:block; margin:auto;">
 <p style="text-align:center;"><small>Source: <i>Land is a Big Deal</i></small></p>
 
 Put another way, on the low end that's enough to fully fund any ONE of our three major non-discretionary spending obligations: social security, healthcare, or the defense budget. On the higher end, a Land Value Tax could fully fund all three, with money left over to spare:<br><br>
-<img src="content/images/2019_federal_vs_2019_land_rent.png" style="max-width:67%; display:block; margin:auto;">
+<img src="content/images/2019_federal_vs_2019_land_rent.png" style="max-width:100%; display:block; margin:auto;">
 <p style="text-align:center;"><small>Source: <i>Land is a Big Deal</i></small></p>
 
 If LVT is levied only at the state level, even the most pessimistic estimates would cover the majority of current state spending levels:<br><br>
-<img src="content/images/land_rent_vs_net_state_spending.png" style="max-width:67%; display:block; margin:auto;">
+<img src="content/images/land_rent_vs_net_state_spending.png" style="max-width:100%; display:block; margin:auto;">
 <p style="text-align:center;"><small>Source: <i>Land is a Big Deal</i></small></p>
 </p>
 <p>
 This is because <i>Land is a Big Deal</i>. It's no coincidence that real estate is the world's single largest asset class:<br><br>
-<img src="content/images/mckinsey_land.png" style="max-width:67%; display:block; margin:auto;">
+<img src="content/images/mckinsey_land.png" style="max-width:100%; display:block; margin:auto;">
 <p style="text-align:center;"><small>Source: <a href="">McKinsey & Company</a></small></p>
 
 
 ...or that real estate comprises an ever-increasing majority share of bank loans:<br><br>
-<img src="content/images/real_estate_bank_lending_graph.png" style="max-width:67%; display:block; margin:auto;">
+<img src="content/images/real_estate_bank_lending_graph.png" style="max-width:100%; display:block; margin:auto;">
 <p style="text-align:center;"><small>Source: <a href="https://www.nber.org/system/files/working_papers/w20501/w20501.pdf">Jordà, Schularick, and Taylor</a></small></p>
 
 And of course, the vast majority of that real estate's value is due to land:<br><br>
-<img src="content/images/aei_land_share.png" style="max-width:67%; display:block; margin:auto;">
+<img src="content/images/aei_land_share.png" style="max-width:100%; display:block; margin:auto;">
 <p style="text-align:center;"><small>Source: <a href="https://www.aei.org/housing/land-price-indicators/">American Enterprise Institute</a></small></p>
 
 
 The power that aristocrats once weilded from controlling agricultural land has shifted to those who own residential land:<br><br>
-<img src="content/images/uk_national_capital.png" style="max-width:67%; display:block; margin:auto;">
+<img src="content/images/uk_national_capital.png" style="max-width:100%; display:block; margin:auto;">
 <p style="text-align:center;"><small>Source: <i>Capital in the 21<sup>st</sup> Century</i> by Thomas Piketty</small></p>
 <br><br>
-<img src="content/images/france_national_capital.png" style="max-width:67%; display:block; margin:auto;">
+<img src="content/images/france_national_capital.png" style="max-width:100%; display:block; margin:auto;">
 <p style="text-align:center;"><small>Source: <i>Capital in the 21<sup>st</sup> Century</i> by Thomas Piketty</small></p>
 <br><br>
-<img src="content/images/spain_assets.png" style="max-width:67%; display:block; margin:auto;">
+<img src="content/images/spain_assets.png" style="max-width:100%; display:block; margin:auto;">
 <p style="text-align:center;"><small>Source: <a href="https://web.archive.org/web/20180821115745/http://wid.world/wp-content/uploads/2018/02/WID.WP_ABM_WEALTHSPAIN_2018.pdf">Blanco, Bauluz, & Martínes-Toledano</a></small></p>
 
 This has had predictable effects on housing prices and rent:<br><br>
 
-<img src="content/images/book_review_rent_graph.png" style="max-width:67%; display:block; margin:auto;">
+<img src="content/images/book_review_rent_graph.png" style="max-width:100%; display:block; margin:auto;">
 <p style="text-align:center;"><small>Source: Apartment List</small></p>
 <br><br>
-<img src="content/images/fed_rent.jpg" style="max-width:67%; display:block; margin:auto;">
+<img src="content/images/fed_rent.jpg" style="max-width:100%; display:block; margin:auto;">
 <p style="text-align:center;"><small>Source: FRED</small></p>
 
 
 Not to mention successively declining rates of generational home-ownership:<br><br>
-<img src="content/images/homeownership_decline.png" style="max-width:67%; display:block; margin:auto;">
+<img src="content/images/homeownership_decline.png" style="max-width:100%; display:block; margin:auto;">
 <p style="text-align:center;"><small>Source: Apartment List</small></p>
 
 Land is a big deal. This book talks about why that's a problem, how things got this way, and what we can do about it.
