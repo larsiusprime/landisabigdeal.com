@@ -163,7 +163,7 @@ Land is a big deal. This book talks about why that's a problem, how things got t
 </p>
 
 <p style="text-align:center;">
-<h1>Get notified as soon as pre-orders go live:</h1>
+<a href="#preorder"><h1>Get notified as soon as pre-orders go live</h1></a>
 </p>
 <!--
 <h1>What's the big deal?</h1>
