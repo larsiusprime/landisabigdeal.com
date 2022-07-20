@@ -179,7 +179,7 @@ There's more to this project than just a book. We also have a plan for helping i
 
 <hr>
 <h1>Contact</h3>
-Email me at: lars.doucet@landisabigdeal.com
+<p>You can email the author at: <b>lars.doucet@landisabigdeal.com</b></p>
 <!--
 <h1>What's the big deal?</h1>
 <p>
