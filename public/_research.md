@@ -140,9 +140,6 @@ On the right you have the independent contribution of proximity to water to land
 Philadelphia has among the best data and best data policies in the country. Texas cities have some decent data portals and access rules but are burdened by real estate non disclosure laws. And the most onerous and restrictive municipality in the country is Santa Clara county – the seat of Silicon Valley, ironically – which charges over $40,000 just to access the same data basically everyone else gives out for free or for very cheap.
  </p>
 <p>
-We’ve also <b>read a bunch of research papers</b> and <b>assembled a team of knowledgeable experts with relevant experience</b>. As for myself (Lars Doucet), I just wrote this book about how land is a really big deal, and am also an experienced computer programmer familiar with machine learning. Stephen Hoskins is our model builder, who recently submitted his Master’s thesis on the subject of what factors drive land values. <a href="https://www.linkedin.com/in/ted-gwartney-mai-56145926?original_referer=">Ted Gwartney</a> and <a href="https://www.linkedin.com/in/paulbidanset?trk=public_profile_browsemap">Paul Bidanset</a> are experienced assessors who are advising us, and <a href="https://narrativespodcast.com/">Will Jarvis</a> heads up the business side.
-</p>
-<p>
 We've also collected a bunch of data from municipal open data portals. Here's an example of what we mean:<br><br>
 <img src="content/images/openphilly.png" style="max-width:100%; display:block; margin:auto;"><br><br>A lot of municipalities have started doing this kind of high quality centralized data gathering. Philly is probably the best, but there are many that are its peers and our method could be applied to any of them.
 <br><br>We’ve done a good bit of cleaning on it as well as mapping it together with other sources of public data. Documenting this procedure into a reproducible pipeline will be one of our deliverables.</p>
@@ -151,7 +148,27 @@ We've also collected a bunch of data from municipal open data portals. Here's an
 <iframe style="position:relative; display:block; margin:auto;" width="526" height="296" src="https://www.youtube.com/embed/C1irC3HG--U" title="Daryl Fairweather - The Housing Crisis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 
 She has said that <a href="https://twitter.com/FairweatherPhD/status/1536326965384323072">researchers should contact Redfin</a> if they want to work out a data partnership, and we’ve sent in our application. If RedFin can share their data with us, that will allow us to circumvent the real estate non disclosure laws that operate in so many areas. Our project doesn't fundamentally depend on this, mind you, and we have no idea how long it might take to work our such a partnership, or whether it will even come to fruition at all. Nevertheless, we're actively pursuing this and other such leads. If you have access to this kind of data, please reach out to us!
-
+</p>
+<p>
+<h3>The Team</h3>
+<p>
+We’ve assembled a team of knowledgeable experts with relevant experience</b>. 
+</p>
+<p>
+First up is me, <b>Lars Doucet</b>. I have an undergraduate degree in Architecture and a Master's degree in Visualization Sciences (both from Texas A&M University), I just wrote a book about how land is a really big deal, and I'm also an experienced computer programmer familiar with machine learning.
+</p>
+<p>
+<a href="https://nz.linkedin.com/in/stephen-hoskins-07949371">Stephen Hoskins</a> is our model builder. He just submitted his Master’s thesis for a degree in Spatial, Transport, and Environmental Economics at Vrije Universiteit Amsterdam. His thesis is <i>"The impact of the Auckland Unitary Plan on the spatial arrangement of land values"</i> which analyzes in great detail how, where, and why the 2016 upzoning of Auckland affected land prices throughout the area.
+</p>
+<p>Next are our advisors. 
+<a href="https://www.linkedin.com/in/ted-gwartney-mai-56145926?original_referer=">Ted Gwartney</a> has decades of experience as a professional assessor in the US and internationally, and has held many leadership roles in <a href="https://commonground-usa.net/">Common Ground USA</a>, the <a href="https://schalkenbach.org/">Robert Schalkenbach Foundation</a>, and the <a href="https://cgocouncil.org/">Council of Georgist Organizations</a>. He has been a professor of Real Estate Appraisal at Baruch College, New York, and has previously applied his skills for British Columbia, Canada, Southfield, Michigian, and Hartford Connecticut.
+</p>
+<p>
+<a href="https://www.linkedin.com/in/paulbidanset?trk=public_profile_browsemap">Paul Bidanset</a> is a Geospatial real estate/property data scientist with international expertise in automated valuation models (AVMs) and computer-assisted mass appraisal (CAMA) model implementation (creation, testing, research, and staff training) to promote efficient, accurate, and equitable valuations. He is the co-author of <a href="https://www.amazon.com/GIS-Property-Tax-Assessment-Professionals/dp/0883292432">GIS for Property Tax and Assessment Professionals</a> and is a PhD candidate of Real Estate Valuation at Ulster University. He is co-founder of <a href="https://www.openappraisal.org/">Center for Appraisal Research and Technology</a>, and has applied his research and skills for the countries of Moldova, Estonia, and Ukraine, as well as Chicago, Albuquerque, Detroit, and Milwaukee in the USA.
+</p>
+<p>
+<a href="https://www.linkedin.com/in/will-jarvis-b28a0985">Will Jarvis</a> is researcher in residence at <a href="https://beondeck.com/">On Deck</a> and host of the <a href="https://narrativespodcast.com/">Narratives podcast</a>. He spent five years as director of marketing and operations at Tanjo, a machine learning startup. Will heads up the business, marketing, and fundraising side of the operation and took the lead on writing the grant application for Astral Codex Ten that kickstarted our project.
+</p>
 </p>
 <h3>What's Left</h3>
 <p>So what do we still need to do? <b>Finish the models</b>, for one.</p>
