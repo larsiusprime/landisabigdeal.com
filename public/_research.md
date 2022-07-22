@@ -125,9 +125,6 @@ This is not just for the sake of adoption by assessors offices, but to make mass
 We’ve assembled a team of knowledgeable experts with relevant experience</b>. 
 </p>
 <p>
-First up is me, <b>Lars Doucet</b>. I have an undergraduate degree in Architecture and a Master's degree in Visualization Sciences (both from Texas A&M University), I just wrote a book about how land is a really big deal, and I'm also an experienced computer programmer familiar with machine learning.
-</p>
-<p>
 <a href="https://nz.linkedin.com/in/stephen-hoskins-07949371">Stephen Hoskins</a> is our model builder. He just submitted his Master’s thesis for a degree in Spatial, Transport, and Environmental Economics at Vrije Universiteit Amsterdam. His thesis is <i>"The impact of the Auckland Unitary Plan on the spatial arrangement of land values"</i> which analyzes in great detail how, where, and why the 2016 upzoning of Auckland affected land prices throughout the area.
 </p>
 <p><a href="https://www.linkedin.com/in/ted-gwartney-mai-56145926?original_referer=">Ted Gwartney</a> has decades of experience as a professional assessor in the US and internationally, and has held many leadership roles in <a href="https://commonground-usa.net/">Common Ground USA</a>, the <a href="https://schalkenbach.org/">Robert Schalkenbach Foundation</a>, and the <a href="https://cgocouncil.org/">Council of Georgist Organizations</a>. He has been a professor of Real Estate Appraisal at Baruch College, New York, and has previously applied his skills for the province of British Columbia, Canada, as well as Southfield, Michigian, and Hartford, Connecticut.
@@ -137,6 +134,9 @@ First up is me, <b>Lars Doucet</b>. I have an undergraduate degree in Architectu
 </p>
 <p>
 <a href="https://www.linkedin.com/in/will-jarvis-b28a0985">Will Jarvis</a> is researcher in residence at <a href="https://beondeck.com/">On Deck</a> and host of the <a href="https://narrativespodcast.com/">Narratives podcast</a>. He spent five years as director of marketing and operations at Tanjo, a machine learning startup. Will heads up the business, marketing, and fundraising side of the operation and took the lead on writing the grant application for Astral Codex Ten that kickstarted our project.
+</p>
+<p>
+Last up is me, <b>Lars Doucet</b>, the lead organizer. I have an undergraduate degree in Architecture and a Master's degree in Visualization Sciences (both from Texas A&M University), I just wrote a book about how land is a really big deal, and I'm also an experienced computer programmer familiar with machine learning.
 </p>
 <h3>Our Approach</h3>
 <p>The heart of our model is to <b>value land directly</b> by focusing specifically on land based characteristics. We mean things like, “school district you are in,” “distance to public amenities like transit, parks, hospitals, etc.” As well as distance to anything desirable (green space, water) and undesirable (pollution, crime, noise, etc). The advantage of all these properties is that they don’t require you to go into people’s houses and take a bunch of measurements. You can take the location of these known feature on the map and calculate distance to them for every property. They also have the advantage of being easier to keep up to date over time.
