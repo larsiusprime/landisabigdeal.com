@@ -35,7 +35,7 @@
 <br>
 
 <a id="praise"></a>
-<h1>Praise for "Land is a Big Deal" by Lars A. Doucet:</h1>
+<h1>Praise for <i>Land is a Big Deal</i> by Lars A. Doucet:</h1>
 
 <blockquote class="quoteleft">
 Inspiring a renewal of interest in Georgist ideas whose full ramifications are yet to be determined.
