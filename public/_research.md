@@ -27,7 +27,7 @@ Like this:
 What follows below is a rough sketch of our general plan and what we've accomplished so far in our research.
 </p>
 
-<h2>Goal: Revenue-Neutral Property Tax Shift to Land</h2>
+<h3>Goal: Revenue-Neutral Property Tax Shift to Land</h3>
 
 <p>
 The best immediate policy to achieve our goals is to leverage existing systems and push for split-rate property tax policies that allow local municipalities to tax land and buildings at separate rates. Crucially, the <i>exact same amount of property tax</i> will be collected, the only difference being where the tax money comes from. We favor eliminating taxes on buildings entirely, moving the full burden of taxation onto unimproved land value, but any shift that moves the needle towards land is an improvement over the status quo. "Full" Land Value Tax can wait, just achieving this would be a massive improvement over the status quo and can be truthfully framed as a moderate, pragmatic reform that works within the existing system.
@@ -59,7 +59,7 @@ values offset by increases in the value of structures.
 </blockquote>
 
 </p>
-<h2>Obstacles</h2>
+<h3>Obstacles</h3>
 <p>
 Okay, sounds great! What stands in the way?
 </p>
@@ -68,7 +68,7 @@ Okay, sounds great! What stands in the way?
 <br>
 <hr>
 <br>
-<h2>The "Land Is a Big Deal"<br>Computer-Assisted Mass Apprasial Project</h2>
+<h3>The "Land Is a Big Deal"<br>Computer-Assisted Mass Apprasial Project</h3>
 <p>
 We are building an open data computer-assisted mass appraisal model. This is a way to estimate the values of a lot of properties at once. We will publish all of our results, methods, and data and we will rely as much as possible on public data sources as inputs.
 </p>
