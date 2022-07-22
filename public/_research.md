@@ -87,7 +87,10 @@ For one, <b>the latest methods aren't available everywhere.</b> A lot of great r
 Second, <b>the real problem isn’t always methods, but data</b>. Not everyone has access to good data – 12 states (including Texas) have “real estate non disclosure laws,” which hide property sales transactions data from public view. Part of our project is looking into ways to get around this.
 </p>
 <p>
-Third, <b>many assessments are out of date</b>. Anywhere that land values haven't been updated in a long time, they are  likely to be under-assessed. Here's a slide from the <a href="https://iaao.org">International Association of Assessment Officers</a> 2017 survey about local policies, as you can see many jurisdictions do not mandate frequent re-assesssments: <br><br>
+Third, <b>many assessments are out of date</b>. Anywhere that land values haven't been updated in a long time, they are likely to be under-assessed. Part of the reason for this is that most jurisdictions don't mandate annual re-assessments, it's not unheard of to find places where land values haven't been updated in many years, sometimes even a decade or more.
+</p>
+<p>
+Here's a slide from the <a href="https://iaao.org">International Association of Assessment Officers</a> 2017 survey about local policies, where they asked each jurisdiction for how frequently they mandate re-assessments. As you can see there's a very wide range in policies for how often property is re-assessed: <br><br>
 <img src="content/images/ptapp_reassessment.png" style="max-width:100%; display:block; margin:auto;">
 
 As an example, here's a listing for a property in Manhattan where the assessed land value hasn't changed in ten years, even though the market value of the property increased by $3 million during that time:<br><br>
