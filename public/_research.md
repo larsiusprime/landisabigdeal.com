@@ -120,6 +120,24 @@ This is not just for the sake of adoption by assessors offices, but to make mass
 </p>
 <p>Fourth, we'll <b>build a model that can be run cheaply and frequently.</b> Our goal is for the model to update property values at least once a year.
 </p>
+<h3>Our Team</h3>
+<p>
+We’ve assembled a team of knowledgeable experts with relevant experience</b>. 
+</p>
+<p>
+First up is me, <b>Lars Doucet</b>. I have an undergraduate degree in Architecture and a Master's degree in Visualization Sciences (both from Texas A&M University), I just wrote a book about how land is a really big deal, and I'm also an experienced computer programmer familiar with machine learning.
+</p>
+<p>
+<a href="https://nz.linkedin.com/in/stephen-hoskins-07949371">Stephen Hoskins</a> is our model builder. He just submitted his Master’s thesis for a degree in Spatial, Transport, and Environmental Economics at Vrije Universiteit Amsterdam. His thesis is <i>"The impact of the Auckland Unitary Plan on the spatial arrangement of land values"</i> which analyzes in great detail how, where, and why the 2016 upzoning of Auckland affected land prices throughout the area.
+</p>
+<p><a href="https://www.linkedin.com/in/ted-gwartney-mai-56145926?original_referer=">Ted Gwartney</a> has decades of experience as a professional assessor in the US and internationally, and has held many leadership roles in <a href="https://commonground-usa.net/">Common Ground USA</a>, the <a href="https://schalkenbach.org/">Robert Schalkenbach Foundation</a>, and the <a href="https://cgocouncil.org/">Council of Georgist Organizations</a>. He has been a professor of Real Estate Appraisal at Baruch College, New York, and has previously applied his skills for British Columbia, Canada, Southfield, Michigian, and Hartford Connecticut.
+</p>
+<p>
+<a href="https://www.linkedin.com/in/paulbidanset?trk=public_profile_browsemap">Paul Bidanset</a> is a Geospatial real estate/property data scientist with international expertise in automated valuation models (AVMs) and computer-assisted mass appraisal (CAMA) model implementation (creation, testing, research, and staff training) to promote efficient, accurate, and equitable valuations. He is the co-author of <a href="https://www.amazon.com/GIS-Property-Tax-Assessment-Professionals/dp/0883292432">GIS for Property Tax and Assessment Professionals</a> and is a PhD candidate of Real Estate Valuation at Ulster University. He is co-founder of <a href="https://www.openappraisal.org/">Center for Appraisal Research and Technology</a>, and has applied his research and skills for the countries of Moldova, Estonia, and Ukraine, as well as Chicago, Albuquerque, Detroit, and Milwaukee in the USA.
+</p>
+<p>
+<a href="https://www.linkedin.com/in/will-jarvis-b28a0985">Will Jarvis</a> is researcher in residence at <a href="https://beondeck.com/">On Deck</a> and host of the <a href="https://narrativespodcast.com/">Narratives podcast</a>. He spent five years as director of marketing and operations at Tanjo, a machine learning startup. Will heads up the business, marketing, and fundraising side of the operation and took the lead on writing the grant application for Astral Codex Ten that kickstarted our project.
+</p>
 <h3>Our Approach</h3>
 <p>The heart of our model is to <b>value land directly</b> by focusing specifically on land based characteristics. We mean things like, “school district you are in,” “distance to public amenities like transit, parks, hospitals, etc.” As well as distance to anything desirable (green space, water) and undesirable (pollution, crime, noise, etc). The advantage of all these properties is that they don’t require you to go into people’s houses and take a bunch of measurements. You can take the location of these known feature on the map and calculate distance to them for every property. They also have the advantage of being easier to keep up to date over time.
 </p>
@@ -150,25 +168,7 @@ We've also collected a bunch of data from municipal open data portals. Here's an
 She has said that <a href="https://twitter.com/FairweatherPhD/status/1536326965384323072">researchers should contact Redfin</a> if they want to work out a data partnership, and we’ve sent in our application. If RedFin can share their data with us, that will allow us to circumvent the real estate non disclosure laws that operate in so many areas. Our project doesn't fundamentally depend on this, mind you, and we have no idea how long it might take to work our such a partnership, or whether it will even come to fruition at all. Nevertheless, we're actively pursuing this and other such leads. If you have access to this kind of data, please reach out to us!
 </p>
 <p>
-<h3>The Team</h3>
-<p>
-We’ve assembled a team of knowledgeable experts with relevant experience</b>. 
-</p>
-<p>
-First up is me, <b>Lars Doucet</b>. I have an undergraduate degree in Architecture and a Master's degree in Visualization Sciences (both from Texas A&M University), I just wrote a book about how land is a really big deal, and I'm also an experienced computer programmer familiar with machine learning.
-</p>
-<p>
-<a href="https://nz.linkedin.com/in/stephen-hoskins-07949371">Stephen Hoskins</a> is our model builder. He just submitted his Master’s thesis for a degree in Spatial, Transport, and Environmental Economics at Vrije Universiteit Amsterdam. His thesis is <i>"The impact of the Auckland Unitary Plan on the spatial arrangement of land values"</i> which analyzes in great detail how, where, and why the 2016 upzoning of Auckland affected land prices throughout the area.
-</p>
-<p>Next are our advisors. 
-<a href="https://www.linkedin.com/in/ted-gwartney-mai-56145926?original_referer=">Ted Gwartney</a> has decades of experience as a professional assessor in the US and internationally, and has held many leadership roles in <a href="https://commonground-usa.net/">Common Ground USA</a>, the <a href="https://schalkenbach.org/">Robert Schalkenbach Foundation</a>, and the <a href="https://cgocouncil.org/">Council of Georgist Organizations</a>. He has been a professor of Real Estate Appraisal at Baruch College, New York, and has previously applied his skills for British Columbia, Canada, Southfield, Michigian, and Hartford Connecticut.
-</p>
-<p>
-<a href="https://www.linkedin.com/in/paulbidanset?trk=public_profile_browsemap">Paul Bidanset</a> is a Geospatial real estate/property data scientist with international expertise in automated valuation models (AVMs) and computer-assisted mass appraisal (CAMA) model implementation (creation, testing, research, and staff training) to promote efficient, accurate, and equitable valuations. He is the co-author of <a href="https://www.amazon.com/GIS-Property-Tax-Assessment-Professionals/dp/0883292432">GIS for Property Tax and Assessment Professionals</a> and is a PhD candidate of Real Estate Valuation at Ulster University. He is co-founder of <a href="https://www.openappraisal.org/">Center for Appraisal Research and Technology</a>, and has applied his research and skills for the countries of Moldova, Estonia, and Ukraine, as well as Chicago, Albuquerque, Detroit, and Milwaukee in the USA.
-</p>
-<p>
-<a href="https://www.linkedin.com/in/will-jarvis-b28a0985">Will Jarvis</a> is researcher in residence at <a href="https://beondeck.com/">On Deck</a> and host of the <a href="https://narrativespodcast.com/">Narratives podcast</a>. He spent five years as director of marketing and operations at Tanjo, a machine learning startup. Will heads up the business, marketing, and fundraising side of the operation and took the lead on writing the grant application for Astral Codex Ten that kickstarted our project.
-</p>
+
 </p>
 <h3>What's Left</h3>
 <p>So what do we still need to do? <b>Finish the models</b>, for one.</p>
